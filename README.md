@@ -1,6 +1,6 @@
 # Spyder themes
 
-Source YAML for ThemeWeaver. Each directory is one theme; metadata lives in `theme.yaml`.
+Source YAML themes for ThemeWeaver. Each directory is one theme.
 
 | Theme | Description |
 | ----- | ----------- |
