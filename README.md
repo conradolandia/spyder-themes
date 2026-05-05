@@ -1,6 +1,6 @@
 # Theme sources
 
-YAML theme trees for [ThemeWeaver](../README.md). Each **subdirectory** of `themes/` is one theme (`README.md` and `__init__.py` are not themes). The folder name is the theme id used by the CLI (`export`, `validate`, etc.).
+YAML theme trees for [ThemeWeaver](../README.md). Each **subdirectory** of `themes/` is one theme. The folder name is the theme id used by the CLI (`export`, `validate`, etc.).
 
 ## Catalog
 
