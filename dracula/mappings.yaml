@@ -56,8 +56,8 @@ semantic_mappings:
 
     # Icon colors
     ICON_1: Primary.B140
-    ICON_2: Tertiary.B100
-    ICON_3: Success.B90
+    ICON_2: Tertiary.B120
+    ICON_3: Success.B140
     ICON_4: Error.B90
     ICON_5: Warning.B110
     ICON_6: Primary.B60
@@ -113,9 +113,9 @@ semantic_mappings:
     # Colors for Spyder and Python logos
     PYTHON_LOGO_UP: Logos.B10
     PYTHON_LOGO_DOWN: Logos.B20
-    SPYDER_LOGO_BACKGROUND: Logos.B30
-    SPYDER_LOGO_WEB: Logos.B40
-    SPYDER_LOGO_SNAKE: Logos.B50
+    SPYDER_LOGO_BACKGROUND: Primary.B30
+    SPYDER_LOGO_WEB: Primary.B140
+    SPYDER_LOGO_SNAKE: Primary.B140
 
     # For special tabs
     SPECIAL_TABS_SEPARATOR: Primary.B70
@@ -135,22 +135,22 @@ semantic_mappings:
     COLOR_BACKGROUND_1: Primary.B140
     COLOR_BACKGROUND_2: Primary.B130
     COLOR_BACKGROUND_3: Primary.B120
-    COLOR_BACKGROUND_4: Primary.B130
-    COLOR_BACKGROUND_5: Primary.B110
-    COLOR_BACKGROUND_6: Primary.B100
+    COLOR_BACKGROUND_4: Primary.B110
+    COLOR_BACKGROUND_5: Primary.B100
+    COLOR_BACKGROUND_6: Primary.B90
 
     # Text colors
-    COLOR_TEXT_1: Primary.B20
-    COLOR_TEXT_2: Primary.B30
-    COLOR_TEXT_3: Primary.B40
-    COLOR_TEXT_4: Primary.B50
+    COLOR_TEXT_1: Primary.B10
+    COLOR_TEXT_2: Primary.B20
+    COLOR_TEXT_3: Primary.B30
+    COLOR_TEXT_4: Primary.B40
 
     # Accent colors
-    COLOR_ACCENT_1: Secondary.B110
-    COLOR_ACCENT_2: Secondary.B100
-    COLOR_ACCENT_3: Secondary.B90
-    COLOR_ACCENT_4: Secondary.B80
-    COLOR_ACCENT_5: Secondary.B70
+    COLOR_ACCENT_1: Secondary.B100
+    COLOR_ACCENT_2: Secondary.B90
+    COLOR_ACCENT_3: Secondary.B80
+    COLOR_ACCENT_4: Secondary.B70
+    COLOR_ACCENT_5: Secondary.B60
 
     # Disabled elements
     COLOR_DISABLED: Primary.B100
@@ -174,12 +174,12 @@ semantic_mappings:
 
     # Icon colors
     ICON_1: Primary.B50
-    ICON_2: Tertiary.B80
-    ICON_3: Success.B20
-    ICON_4: Error.B50
+    ICON_2: GroupLight.B70
+    ICON_3: Success.B70
+    ICON_4: Error.B70
     ICON_5: Warning.B80
-    ICON_6: Primary.B140
-    ICON_7: Secondary.B80
+    ICON_6: Primary.B120
+    ICON_7: Secondary.B60
 
     # Colors for icons and variable explorer
     GROUP_1: GroupLight.B10
@@ -230,9 +230,9 @@ semantic_mappings:
     # Colors for Spyder and Python logos
     PYTHON_LOGO_UP: Logos.B10
     PYTHON_LOGO_DOWN: Logos.B20
-    SPYDER_LOGO_BACKGROUND: Logos.B30
-    SPYDER_LOGO_WEB: Logos.B40
-    SPYDER_LOGO_SNAKE: Logos.B50
+    SPYDER_LOGO_BACKGROUND: Logos.B40
+    SPYDER_LOGO_WEB: Logos.B50
+    SPYDER_LOGO_SNAKE: Logos.B30
 
     # For special tabs
     SPECIAL_TABS_SEPARATOR: Primary.B80

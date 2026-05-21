@@ -136,7 +136,7 @@ DecidableDireWolfSyntaxLight:
   B50: '#bbbaba'  # EDITOR_SIDEAREAS
   B60: '#1ABC9C'  # EDITOR_MATCHED_P (green for matched parentheses)
   B70: '#FF4B4B'  # EDITOR_UNMATCHED_P (red for unmatched parentheses)
-  B80: '#3b3a3a'  # EDITOR_NORMAL (Normal text)
+  B80: '#242323'  # EDITOR_NORMAL (Normal text)
   B90: '#806000'  # EDITOR_KEYWORD (Keyword)
   B100: '#745F4C'  # EDITOR_MAGIC (Macros)
   B110: '#4f4b45'  # EDITOR_BUILTIN (Builtins)
@@ -151,4 +151,4 @@ Logos:
   B20: '#ffd444'
   B30: '#414141'
   B40: '#fafafa'
-  B50: '#ee0000'
+  B50: '#8c0000'

@@ -153,7 +153,7 @@ CatppuccinMochaSyntaxLight:
   B50: '#D8D8DB'  # EDITOR_SIDEAREAS
   B60: '#8ABC86'  # EDITOR_MATCHED_P (green for matched parentheses)
   B70: '#EE6469'  # EDITOR_UNMATCHED_P (red for unmatched parentheses)
-  B80: '#383C54'  # EDITOR_NORMAL (Normal text)
+  B80: '#141A2F'  # EDITOR_NORMAL (Normal text)
   B90: '#715793'  # EDITOR_KEYWORD (Keyword)
   B100: '#6B605E'  # EDITOR_MAGIC (Macros)
   B110: '#B6303E'  # EDITOR_BUILTIN (Builtins)
