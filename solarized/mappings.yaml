@@ -2,6 +2,7 @@
 color_classes:
   Primary: Gunmetal
   Secondary: Midnight
+  Tertiary: Yellow
   Success: Green
   Error: Red
   Warning: Orange
@@ -111,9 +112,9 @@ semantic_mappings:
     # Colors for Spyder and Python logos
     PYTHON_LOGO_UP: Logos.B10
     PYTHON_LOGO_DOWN: Logos.B20
-    SPYDER_LOGO_BACKGROUND: Logos.B30
-    SPYDER_LOGO_WEB: Logos.B40
-    SPYDER_LOGO_SNAKE: Logos.B50
+    SPYDER_LOGO_BACKGROUND: Primary.B20
+    SPYDER_LOGO_WEB: Primary.B140
+    SPYDER_LOGO_SNAKE: Primary.B140
 
     # For special tabs
     SPECIAL_TABS_SEPARATOR: Primary.B70
@@ -172,8 +173,8 @@ semantic_mappings:
 
     # Icon colors
     ICON_1: Primary.B30
-    ICON_2: SyntaxLight.B120
-    ICON_3: Success.B30
+    ICON_2: Secondary.B30
+    ICON_3: Tertiary.B70
     ICON_4: Error.B70
     ICON_5: Warning.B70
     ICON_6: Primary.B140
@@ -229,9 +230,9 @@ semantic_mappings:
     # Colors for Spyder and Python logos
     PYTHON_LOGO_UP: Logos.B10
     PYTHON_LOGO_DOWN: Logos.B20
-    SPYDER_LOGO_BACKGROUND: Logos.B30
-    SPYDER_LOGO_WEB: Logos.B40
-    SPYDER_LOGO_SNAKE: Logos.B50
+    SPYDER_LOGO_BACKGROUND: Logos.B40
+    SPYDER_LOGO_WEB: Logos.B50
+    SPYDER_LOGO_SNAKE: Logos.B30
 
     # For special tabs
     SPECIAL_TABS_SEPARATOR: Primary.B70

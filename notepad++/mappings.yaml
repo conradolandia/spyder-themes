@@ -3,6 +3,7 @@ color_classes:
   Primary: PokyIsolation
   Secondary: BuoyantOpal
   Tertiary: BruteForceCanadianTuxedo
+  Quaternary: SomePurpleRain
   Success: MeanPhosphorGreen
   Error: SluggishRedPegasus
   Warning: MeekOrangeJuice
@@ -112,16 +113,16 @@ semantic_mappings:
     # Colors for Spyder and Python logos
     PYTHON_LOGO_UP: Logos.B10
     PYTHON_LOGO_DOWN: Logos.B20
-    SPYDER_LOGO_BACKGROUND: Logos.B30
-    SPYDER_LOGO_WEB: Logos.B40
-    SPYDER_LOGO_SNAKE: Logos.B50
+    SPYDER_LOGO_BACKGROUND: Primary.B20
+    SPYDER_LOGO_WEB: Primary.B140
+    SPYDER_LOGO_SNAKE: Primary.B130
 
     # For special tabs
     SPECIAL_TABS_SEPARATOR: Primary.B70
     SPECIAL_TABS_SELECTED: Secondary.B70
 
     # For the heart used to ask for donations
-    COLOR_HEART: Secondary.B80
+    COLOR_HEART: Error.B70
 
     # For editor tooltips
     TIP_TITLE_COLOR: Success.B80
@@ -134,9 +135,9 @@ semantic_mappings:
     COLOR_BACKGROUND_1: Primary.B140
     COLOR_BACKGROUND_2: Primary.B130
     COLOR_BACKGROUND_3: Primary.B120
-    COLOR_BACKGROUND_4: Primary.B130
-    COLOR_BACKGROUND_5: Primary.B110
-    COLOR_BACKGROUND_6: Primary.B100
+    COLOR_BACKGROUND_4: Primary.B110
+    COLOR_BACKGROUND_5: Primary.B100
+    COLOR_BACKGROUND_6: Primary.B90
 
     # Text colors
     COLOR_TEXT_1: Primary.B20
@@ -145,11 +146,11 @@ semantic_mappings:
     COLOR_TEXT_4: Primary.B50
 
     # Accent colors
-    COLOR_ACCENT_1: Secondary.B130
-    COLOR_ACCENT_2: Secondary.B120
-    COLOR_ACCENT_3: Secondary.B100
-    COLOR_ACCENT_4: Secondary.B90
-    COLOR_ACCENT_5: Secondary.B80
+    COLOR_ACCENT_1: Quaternary.B90
+    COLOR_ACCENT_2: Quaternary.B80
+    COLOR_ACCENT_3: Quaternary.B70
+    COLOR_ACCENT_4: Quaternary.B60
+    COLOR_ACCENT_5: Quaternary.B50
 
     # Disabled elements
     COLOR_DISABLED: Primary.B90
@@ -173,12 +174,12 @@ semantic_mappings:
 
     # Icon colors
     ICON_1: Primary.B20
-    ICON_2: Tertiary.B40
+    ICON_2: Tertiary.B70
     ICON_3: Success.B60
     ICON_4: Error.B80
     ICON_5: Warning.B80
     ICON_6: Primary.B130
-    ICON_7: GroupLight.B90
+    ICON_7: Quaternary.B60
 
     # Colors for icons and variable explorer
     GROUP_1: GroupLight.B10
@@ -229,16 +230,16 @@ semantic_mappings:
     # Colors for Spyder and Python logos
     PYTHON_LOGO_UP: Logos.B10
     PYTHON_LOGO_DOWN: Logos.B20
-    SPYDER_LOGO_BACKGROUND: Logos.B30
-    SPYDER_LOGO_WEB: Logos.B40
-    SPYDER_LOGO_SNAKE: Logos.B50
+    SPYDER_LOGO_BACKGROUND: Logos.B40
+    SPYDER_LOGO_WEB: Logos.B50
+    SPYDER_LOGO_SNAKE: Logos.B30
 
     # For special tabs
     SPECIAL_TABS_SEPARATOR: Primary.B80
     SPECIAL_TABS_SELECTED: Primary.B90
 
     # For the heart used to ask for donations
-    COLOR_HEART: Error.B70
+    COLOR_HEART: Error.B50
 
     # For editor tooltips
     TIP_TITLE_COLOR: Success.B30
