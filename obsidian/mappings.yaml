@@ -27,7 +27,7 @@ semantic_mappings:
     COLOR_TEXT_4: Primary.B100
 
     # Accent colors
-    COLOR_ACCENT_1: Secondary.B40
+    COLOR_ACCENT_1: Secondary.B50
     COLOR_ACCENT_2: Secondary.B60
     COLOR_ACCENT_3: Secondary.B70
     COLOR_ACCENT_4: Secondary.B90
@@ -35,6 +35,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
+    COLOR_EMPTY: Secondary.B30
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B40
@@ -153,6 +154,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B80
+    COLOR_EMPTY: Secondary.B120
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B110
@@ -174,7 +176,7 @@ semantic_mappings:
     # Icon colors
     ICON_1: Primary.B10
     ICON_2: Secondary.B70
-    ICON_3: Success.B60
+    ICON_3: Success.B70
     ICON_4: Error.B50
     ICON_5: Warning.B80
     ICON_6: Primary.B120
@@ -235,7 +237,7 @@ semantic_mappings:
 
     # For special tabs
     SPECIAL_TABS_SEPARATOR: Primary.B80
-    SPECIAL_TABS_SELECTED: Secondary.B100
+    SPECIAL_TABS_SELECTED: Secondary.B90
 
     # For the heart used to ask for donations
     COLOR_HEART: Error.B40

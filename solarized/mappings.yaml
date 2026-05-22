@@ -3,6 +3,7 @@ color_classes:
   Primary: Gunmetal
   Secondary: Midnight
   Tertiary: Yellow
+  Purple: Purple
   Success: Green
   Error: Red
   Warning: Orange
@@ -36,6 +37,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
+    COLOR_EMPTY: Secondary.B20
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B40
@@ -145,14 +147,15 @@ semantic_mappings:
     COLOR_TEXT_4: Primary.B70
 
     # Accent colors
-    COLOR_ACCENT_1: Secondary.B70
-    COLOR_ACCENT_2: Secondary.B60
-    COLOR_ACCENT_3: Secondary.B50
-    COLOR_ACCENT_4: Secondary.B40
-    COLOR_ACCENT_5: Secondary.B30
+    COLOR_ACCENT_1: Secondary.B80
+    COLOR_ACCENT_2: Secondary.B70
+    COLOR_ACCENT_3: Secondary.B60
+    COLOR_ACCENT_4: Secondary.B50
+    COLOR_ACCENT_5: Secondary.B40
 
     # Disabled elements
     COLOR_DISABLED: Primary.B80
+    COLOR_EMPTY: Tertiary.B120
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B40
@@ -174,11 +177,11 @@ semantic_mappings:
     # Icon colors
     ICON_1: Primary.B30
     ICON_2: Secondary.B30
-    ICON_3: Tertiary.B70
+    ICON_3: Tertiary.B80
     ICON_4: Error.B70
     ICON_5: Warning.B70
     ICON_6: Primary.B140
-    ICON_7: GroupLight.B70
+    ICON_7: Purple.B80
 
     # Colors for icons and variable explorer
     GROUP_1: GroupLight.B10

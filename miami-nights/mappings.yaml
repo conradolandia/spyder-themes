@@ -35,6 +35,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
+    COLOR_EMPTY: Primary.B40
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B40
@@ -145,14 +146,15 @@ semantic_mappings:
     COLOR_TEXT_4: Primary.B50
 
     # Accent colors
-    COLOR_ACCENT_1: Secondary.B120
-    COLOR_ACCENT_2: Secondary.B110
-    COLOR_ACCENT_3: Secondary.B100
-    COLOR_ACCENT_4: Secondary.B90
-    COLOR_ACCENT_5: Secondary.B80
+    COLOR_ACCENT_1: Secondary.B90
+    COLOR_ACCENT_2: Secondary.B80
+    COLOR_ACCENT_3: Secondary.B70
+    COLOR_ACCENT_4: Secondary.B60
+    COLOR_ACCENT_5: Secondary.B50
 
     # Disabled elements
     COLOR_DISABLED: Primary.B80
+    COLOR_EMPTY: Secondary.B100
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B110
@@ -174,7 +176,7 @@ semantic_mappings:
     # Icon colors
     ICON_1: Primary.B10
     ICON_2: Secondary.B70
-    ICON_3: Success.B60
+    ICON_3: Success.B70
     ICON_4: Error.B70
     ICON_5: Warning.B80
     ICON_6: Primary.B120

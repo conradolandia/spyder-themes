@@ -116,8 +116,8 @@ LocalDarkKnightSyntaxDark:
   B30: '#E12DA2'  # EDITOR_OCCURRENCE
   B40: '#51cdff'  # EDITOR_CTRLCLICK
   B50: '#211d35'  # EDITOR_SIDEAREAS
-  B60: '#65a84c'  # EDITOR_MATCHED_P
-  B70: '#ff0079'  # EDITOR_UNMATCHED_P
+  B60: '#857AA8'  # EDITOR_MATCHED_P
+  B70: '#954973'  # EDITOR_UNMATCHED_P
   B80: '#f8f8f2'  # EDITOR_NORMAL (Normal text)
   B90: '#3cfffc'  # EDITOR_KEYWORD (Keyword)
   B100: '#ffde63'  # EDITOR_MAGIC (Macros)
@@ -127,7 +127,7 @@ LocalDarkKnightSyntaxDark:
   B140: '#C880FF'  # EDITOR_STRING (Strings, Escape Sequences, Regex)
   B150: '#00ff98'  # EDITOR_NUMBER (Constants, Numbers)
   B160: '#ff8c8c'  # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
-  B170: '#a2adff'  # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
+  B170: '#ff0079'  # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
 LocalDarkKnightSyntaxLight:
   B10: '#d4cce8'  # EDITOR_CURRENTLINE
   B20: '#e8e2f5'  # EDITOR_CURRENTCELL
@@ -144,8 +144,8 @@ LocalDarkKnightSyntaxLight:
   B130: '#5c5678'  # EDITOR_COMMENT (Comments)
   B140: '#6a2a90'  # EDITOR_STRING (Strings, Escape Sequences, Regex)
   B150: '#0A7152'  # EDITOR_NUMBER (Constants, Numbers)
-  B160: '#a5306e'  # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
-  B170: '#3d4f9e'  # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
+  B160: '#3d4f9e'  # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
+  B170: '#a5306e'  # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
 Logos:
   B10: '#3775a9'
   B20: '#ffd444'

@@ -37,6 +37,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
+    COLOR_EMPTY: Secondary.B40
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B40
@@ -154,6 +155,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B90
+    COLOR_EMPTY: Quaternary.B120
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B110
@@ -175,7 +177,7 @@ semantic_mappings:
     # Icon colors
     ICON_1: Primary.B20
     ICON_2: Tertiary.B70
-    ICON_3: Success.B60
+    ICON_3: Success.B70
     ICON_4: Error.B80
     ICON_5: Warning.B80
     ICON_6: Primary.B130

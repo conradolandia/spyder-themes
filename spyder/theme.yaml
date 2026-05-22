@@ -1,7 +1,7 @@
 ---
 name: spyder
 display_name: Spyder
-description: Based on the default QDarkStyleSheet color palette
+description: The original Spyder theme, based on the default QDarkStyleSheet color palette
 author: ColinDuquesnoy, adapted by Spyder Team
 version: 1.0.0
 license: MIT
