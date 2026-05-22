@@ -58,11 +58,11 @@ CoherentPhosphorGreen:
   B30: '#173710'
   B40: '#194911'
   B50: '#1A5B12'
+  B55: '#006600'
   B60: '#1A6E11'
   B70: '#17810E'
   B80: '#119509'
   B90: '#00aa00'
-  B95: '#006600'
   B100: '#51B83F'
   B110: '#7AC766'
   B120: '#9DD58C'
@@ -137,7 +137,7 @@ ConcurrentMidnightMirageSyntaxDark:
   B50: '#2A1F2B'  # EDITOR_SIDEAREAS
   B60: '#1DBD1D'  # EDITOR_MATCHED_P
   B70: '#BD1D1D'  # EDITOR_UNMATCHED_P
-  B80: '#F8F8F2'  # EDITOR_NORMAL (Braces, Delimiters, Operators, Symbols)
+  B80: '#F8F8F2'  # EDITOR_NORMAL (Normal text)
   B90: '#FFB86C'  # EDITOR_KEYWORD (Keyword)
   B100: '#FFB86C'  # EDITOR_MAGIC (Macros)
   B110: '#BD93F9'  # EDITOR_BUILTIN (Builtins)
@@ -155,7 +155,7 @@ ConcurrentMidnightMirageSyntaxLight:
   B50: '#EFEFEF'  # EDITOR_SIDEAREAS
   B60: '#99FF99'  # EDITOR_MATCHED_P
   B70: '#ED8989'  # EDITOR_UNMATCHED_P
-  B80: '#111111'  # EDITOR_NORMAL (Braces, Delimiters, Operators, Symbols)
+  B80: '#111111'  # EDITOR_NORMAL (Normal text)
   B90: '#8B4500'  # EDITOR_KEYWORD (Keyword)
   B100: '#8B4500'  # EDITOR_MAGIC (Macros)
   B110: '#900090'  # EDITOR_BUILTIN (Builtins)

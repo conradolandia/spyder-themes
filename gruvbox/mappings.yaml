@@ -176,7 +176,7 @@ semantic_mappings:
     # Icon colors
     ICON_1: Primary.B30
     ICON_2: Tertiary.B70
-    ICON_3: Success.B60
+    ICON_3: Success.B70
     ICON_4: Error.B80
     ICON_5: Warning.B80
     ICON_6: Primary.B90
