@@ -3,7 +3,7 @@ color_classes:
   Primary: UndirectedHaiti
   Secondary: CalmPerrywinkle
   Tertiary: HastyBlueVelvet
-  Success: RelativeJava
+  Success: CoherentPhosphorGreen
   Error: ReligiousIntrigueRed
   Warning: PrimaryEndofSummer
   GroupDark: SwarmArcaneRedDark
@@ -36,10 +36,10 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
-    COLOR_EMPTY: Secondary.B40
+    COLOR_EMPTY: Secondary.B50
 
     # Colors for information and feedback in dialogs
-    COLOR_SUCCESS_1: Success.B40
+    COLOR_SUCCESS_1: Success.B110
     COLOR_SUCCESS_2: Success.B70
     COLOR_SUCCESS_3: Success.B90
     COLOR_SUCCESS_4: Success.B110
@@ -57,7 +57,7 @@ semantic_mappings:
 
     # Icon colors
     ICON_1: Primary.B140
-    ICON_2: Secondary.B100
+    ICON_2: Tertiary.B100
     ICON_3: Success.B100
     ICON_4: Error.B90
     ICON_5: Warning.B90
@@ -110,6 +110,7 @@ semantic_mappings:
     EDITOR_NUMBER: [Syntax.B150, false, false]
     EDITOR_INSTANCE: [Syntax.B160, false, false]
     EDITOR_SYMBOL: [Syntax.B170, false, false]
+
     # Colors for Spyder and Python logos
     PYTHON_LOGO_UP: Logos.B10
     PYTHON_LOGO_DOWN: Logos.B20
@@ -154,14 +155,14 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B80
-    COLOR_EMPTY: Secondary.B110
+    COLOR_EMPTY: Secondary.B90
 
     # Colors for information and feedback in dialogs
-    COLOR_SUCCESS_1: Success.B110
-    COLOR_SUCCESS_2: Success.B80
+    COLOR_SUCCESS_1: Success.B80
+    COLOR_SUCCESS_2: Success.B70
     COLOR_SUCCESS_3: Success.B60
-    COLOR_SUCCESS_4: Success.B40
-    COLOR_SUCCESS_5: Success.B20
+    COLOR_SUCCESS_4: Success.B50
+    COLOR_SUCCESS_5: Success.B40
     COLOR_ERROR_1: Error.B60
     COLOR_ERROR_2: Error.B50
     COLOR_ERROR_3: Error.B40
@@ -174,8 +175,8 @@ semantic_mappings:
     COLOR_WARN_5: Warning.B30
 
     # Icon colors
-    ICON_1: Primary.B10
-    ICON_2: Tertiary.B80
+    ICON_1: Primary.B20
+    ICON_2: Tertiary.B60
     ICON_3: Success.B60
     ICON_4: Error.B70
     ICON_5: Warning.B80
@@ -228,6 +229,7 @@ semantic_mappings:
     EDITOR_NUMBER: [SyntaxLight.B150, false, false]
     EDITOR_INSTANCE: [SyntaxLight.B160, false, false]
     EDITOR_SYMBOL: [SyntaxLight.B170, false, false]
+
     # Colors for Spyder and Python logos
     PYTHON_LOGO_UP: Logos.B10
     PYTHON_LOGO_DOWN: Logos.B20

@@ -36,14 +36,14 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
-    COLOR_EMPTY: Secondary.B40
+    COLOR_EMPTY: Secondary.B60
 
     # Colors for information and feedback in dialogs
-    COLOR_SUCCESS_1: Success.B40
-    COLOR_SUCCESS_2: Success.B70
-    COLOR_SUCCESS_3: Success.B90
+    COLOR_SUCCESS_1: Success.B130
+    COLOR_SUCCESS_2: Success.B90
+    COLOR_SUCCESS_3: Success.B100
     COLOR_SUCCESS_4: Success.B110
-    COLOR_SUCCESS_5: Success.B130
+    COLOR_SUCCESS_5: Success.B120
     COLOR_ERROR_1: Error.B70
     COLOR_ERROR_2: Error.B80
     COLOR_ERROR_3: Error.B90
@@ -62,7 +62,7 @@ semantic_mappings:
     ICON_4: Error.B90
     ICON_5: Warning.B110
     ICON_6: Primary.B60
-    ICON_7: Secondary.B90
+    ICON_7: Secondary.B100
 
     # Colors for variable explorer, and mixed uses of the color system
     GROUP_1: GroupDark.B10
@@ -155,14 +155,14 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B100
-    COLOR_EMPTY: Secondary.B110
+    COLOR_EMPTY: Secondary.B90
 
     # Colors for information and feedback in dialogs
-    COLOR_SUCCESS_1: Success.B110
-    COLOR_SUCCESS_2: Success.B80
-    COLOR_SUCCESS_3: Success.B60
-    COLOR_SUCCESS_4: Success.B40
-    COLOR_SUCCESS_5: Success.B20
+    COLOR_SUCCESS_1: Success.B90
+    COLOR_SUCCESS_2: Success.B70
+    COLOR_SUCCESS_3: Success.B30
+    COLOR_SUCCESS_4: Success.B20
+    COLOR_SUCCESS_5: Success.B50
     COLOR_ERROR_1: Error.B70
     COLOR_ERROR_2: Error.B80
     COLOR_ERROR_3: Error.B90

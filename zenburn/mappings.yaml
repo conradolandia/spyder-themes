@@ -36,10 +36,10 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
-    COLOR_EMPTY: Secondary.B40
+    COLOR_EMPTY: Secondary.B70
 
     # Colors for information and feedback in dialogs
-    COLOR_SUCCESS_1: Success.B40
+    COLOR_SUCCESS_1: Success.B90
     COLOR_SUCCESS_2: Success.B70
     COLOR_SUCCESS_3: Success.B90
     COLOR_ERROR_1: Error.B70
@@ -150,10 +150,10 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B80
-    COLOR_EMPTY: Secondary.B120
+    COLOR_EMPTY: Secondary.B100
 
     # Colors for information and feedback in dialogs
-    COLOR_SUCCESS_1: Success.B110
+    COLOR_SUCCESS_1: Success.B90
     COLOR_SUCCESS_2: Success.B80
     COLOR_SUCCESS_3: Success.B60
     COLOR_ERROR_1: Error.B50
@@ -219,6 +219,7 @@ semantic_mappings:
     EDITOR_NUMBER: [SyntaxLight.B150, false, false]
     EDITOR_INSTANCE: [SyntaxLight.B160, false, true]
     EDITOR_SYMBOL: [SyntaxLight.B170, false, false]
+
     # Colors for Spyder and Python logos
     PYTHON_LOGO_UP: Logos.B10
     PYTHON_LOGO_DOWN: Logos.B20

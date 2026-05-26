@@ -158,7 +158,7 @@ CatppuccinMochaSyntaxLight:
   B100: '#6B605E'  # EDITOR_MAGIC (Macros)
   B110: '#B6303E'  # EDITOR_BUILTIN (Builtins)
   B120: '#456492'  # EDITOR_DEFINITION (Methods, Functions, Classes, Interfaces, Types)
-  B130: '#a7aabf'  # EDITOR_COMMENT (Comments)
+  B130: '#818393'  # EDITOR_COMMENT (Comments)
   B140: '#3E513C'  # EDITOR_STRING (Strings, Escape Sequences, Regex)
   B150: '#9d0208'  # EDITOR_NUMBER (Constants, Numbers)
   B160: '#8A2F34'  # EDITOR_INSTANCE (Parameters, Enum Variants, Property)

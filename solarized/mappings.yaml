@@ -3,6 +3,7 @@ color_classes:
   Primary: Gunmetal
   Secondary: Midnight
   Tertiary: Yellow
+  Quaternary: GenteelMagicalMerlin
   Purple: Purple
   Success: Green
   Error: Red
@@ -37,12 +38,12 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
-    COLOR_EMPTY: Secondary.B20
+    COLOR_EMPTY: Secondary.B40
 
     # Colors for information and feedback in dialogs
-    COLOR_SUCCESS_1: Success.B40
+    COLOR_SUCCESS_1: Success.B90
     COLOR_SUCCESS_2: Success.B70
-    COLOR_SUCCESS_3: Success.B90
+    COLOR_SUCCESS_3: Success.B80
     COLOR_SUCCESS_4: Success.B110
     COLOR_SUCCESS_5: Success.B130
     COLOR_ERROR_1: Error.B40
@@ -58,7 +59,7 @@ semantic_mappings:
 
     # Icon colors
     ICON_1: Primary.B130
-    ICON_2: Secondary.B50
+    ICON_2: Quaternary.B120
     ICON_3: Success.B90
     ICON_4: Error.B70
     ICON_5: Warning.B70
@@ -155,11 +156,11 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B80
-    COLOR_EMPTY: Tertiary.B120
+    COLOR_EMPTY: Secondary.B50
 
     # Colors for information and feedback in dialogs
-    COLOR_SUCCESS_1: Success.B40
-    COLOR_SUCCESS_2: Success.B70
+    COLOR_SUCCESS_1: Success.B50
+    COLOR_SUCCESS_2: Success.B40
     COLOR_SUCCESS_3: Success.B30
     COLOR_SUCCESS_4: Success.B20
     COLOR_SUCCESS_5: Success.B10

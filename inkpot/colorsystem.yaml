@@ -84,6 +84,24 @@ RelativeJava:
   B130: '#C9DEDE'
   B140: '#E4EEEE'
   B150: '#FFFFFF'
+CoherentPhosphorGreen:
+  B0: '#000000'
+  B10: '#0D1707'
+  B20: '#13270D'
+  B30: '#173710'
+  B40: '#194911'
+  B50: '#1A5B12'
+  B55: '#006600'
+  B60: '#1A6E11'
+  B70: '#17810E'
+  B80: '#119509'
+  B90: '#00aa00'
+  B100: '#51B83F'
+  B110: '#7AC766'
+  B120: '#9DD58C'
+  B130: '#BEE3B2'
+  B140: '#DFF1D8'
+  B150: '#FFFFFF'
 PrimaryEndofSummer:
   B0: '#000000'
   B10: '#1C1407'
@@ -133,8 +151,8 @@ UndirectedHaitiSyntaxDark:
   B30: '#1A72BB'  # EDITOR_OCCURRENCE
   B40: '#62626B'  # EDITOR_CTRLCLICK
   B50: '#2D2D44'  # EDITOR_SIDEAREAS
-  B60: '#737FAE'  # EDITOR_MATCHED_P
-  B70: '#944A6C'  # EDITOR_UNMATCHED_P
+  B60: '#484F6C'  # EDITOR_MATCHED_P
+  B70: '#68354E'  # EDITOR_UNMATCHED_P
   B80: '#F0DFCD'  # EDITOR_NORMAL (Normal text)
   B90: '#808BED'  # EDITOR_KEYWORD (Keyword)
   B100: '#808BED'  # EDITOR_MAGIC (Macros)

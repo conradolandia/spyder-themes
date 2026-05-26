@@ -36,10 +36,10 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
-    COLOR_EMPTY: Secondary.B30
+    COLOR_EMPTY: Secondary.B50
 
     # Colors for information and feedback in dialogs
-    COLOR_SUCCESS_1: Success.B40
+    COLOR_SUCCESS_1: Success.B100
     COLOR_SUCCESS_2: Success.B70
     COLOR_SUCCESS_3: Success.B90
     COLOR_SUCCESS_4: Success.B110
@@ -154,10 +154,10 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B80
-    COLOR_EMPTY: Secondary.B110
+    COLOR_EMPTY: Secondary.B70
 
     # Colors for information and feedback in dialogs
-    COLOR_SUCCESS_1: Success.B110
+    COLOR_SUCCESS_1: Success.B90
     COLOR_SUCCESS_2: Success.B80
     COLOR_SUCCESS_3: Success.B60
     COLOR_SUCCESS_4: Success.B40
@@ -174,7 +174,7 @@ semantic_mappings:
     COLOR_WARN_5: Warning.B30
 
     # Icon colors
-    ICON_1: Primary.B10
+    ICON_1: Primary.B20
     ICON_2: Tertiary.B80
     ICON_3: Success.B70
     ICON_4: Error.B80
@@ -210,7 +210,7 @@ semantic_mappings:
     COLOR_OCCURRENCE_5: Primary.B70
 
     # Editor colors
-    EDITOR_BACKGROUND: Primary.B150
+    EDITOR_BACKGROUND: Primary.B140
     EDITOR_CURRENTLINE: SyntaxLight.B10
     EDITOR_CURRENTCELL: SyntaxLight.B20
     EDITOR_OCCURRENCE: SyntaxLight.B30

@@ -35,13 +35,13 @@ semantic_mappings:
     COLOR_ACCENT_5: Secondary.B130
 
     # Disabled elements
-    COLOR_DISABLED: Primary.B70
-    COLOR_EMPTY: Secondary.B30
+    COLOR_DISABLED: Primary.B60
+    COLOR_EMPTY: Primary.B70
 
     # Colors for information and feedback in dialogs
-    COLOR_SUCCESS_1: Success.B40
+    COLOR_SUCCESS_1: Success.B90
     COLOR_SUCCESS_2: Success.B70
-    COLOR_SUCCESS_3: Success.B90
+    COLOR_SUCCESS_3: Success.B100
     COLOR_SUCCESS_4: Success.B110
     COLOR_SUCCESS_5: Success.B130
     COLOR_ERROR_1: Error.B40
@@ -155,10 +155,10 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B80
-    COLOR_EMPTY: Secondary.B120
+    COLOR_EMPTY: Secondary.B90
 
     # Colors for information and feedback in dialogs
-    COLOR_SUCCESS_1: Success.B110
+    COLOR_SUCCESS_1: Success.B90
     COLOR_SUCCESS_2: Success.B80
     COLOR_SUCCESS_3: Success.B60
     COLOR_SUCCESS_4: Success.B40
@@ -176,12 +176,12 @@ semantic_mappings:
 
     # Icon colors
     ICON_1: Primary.B10
-    ICON_2: Secondary.B40
-    ICON_3: Success.B60
+    ICON_2: Secondary.B50
+    ICON_3: Success.B70
     ICON_4: Error.B70
     ICON_5: Warning.B70
     ICON_6: Primary.B130
-    ICON_7: Warning.B50
+    ICON_7: Error.B40
 
     # Colors for icons and variable explorer
     GROUP_1: GroupLight.B10
