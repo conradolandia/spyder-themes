@@ -1,9 +1,11 @@
 ---
 color_classes:
   Primary: LocalDarkKnight
-  Secondary: LinearThorsThunder
+  Secondary: SpeedyMagenta
+  Tertiary: IsothermalFreshBlueofBelAir
+  Quaternary: BrownianDreamyCandyForest
   Success: MagneticEmeraldIcePalace
-  Error: MechanicalGunsNRoses
+  Error: SeriousAnger
   Warning: ElectricalPastelOrange
   GroupDark: IsochoricVenusSlipperOrchidDark
   GroupLight: IsochoricVenusSlipperOrchidLight
@@ -56,12 +58,12 @@ semantic_mappings:
 
     # Icon colors
     ICON_1: Primary.B140
-    ICON_2: Secondary.B100
+    ICON_2: Tertiary.B90
     ICON_3: Success.B100
     ICON_4: Error.B90
     ICON_5: Warning.B90
     ICON_6: Primary.B30
-    ICON_7: GroupDark.B90
+    ICON_7: Quaternary.B100
 
     # Colors for variable explorer, and mixed uses of the color system
     GROUP_1: GroupDark.B10
@@ -154,7 +156,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B80
-    COLOR_EMPTY: Secondary.B100
+    COLOR_EMPTY: Secondary.B60
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B90
@@ -175,12 +177,12 @@ semantic_mappings:
 
     # Icon colors
     ICON_1: Primary.B10
-    ICON_2: Secondary.B70
+    ICON_2: Tertiary.B50
     ICON_3: Success.B70
     ICON_4: Error.B70
     ICON_5: Warning.B80
     ICON_6: Primary.B120
-    ICON_7: Error.B60
+    ICON_7: Quaternary.B70
 
     # Colors for icons and variable explorer
     GROUP_1: GroupLight.B10
@@ -238,7 +240,7 @@ semantic_mappings:
 
     # For special tabs
     SPECIAL_TABS_SEPARATOR: Primary.B80
-    SPECIAL_TABS_SELECTED: Secondary.B80
+    SPECIAL_TABS_SELECTED: Secondary.B50
 
     # For the heart used to ask for donations
     COLOR_HEART: Error.B70

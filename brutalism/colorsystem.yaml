@@ -67,22 +67,22 @@ PokyTurquoise:
   B130: '#B4E5D6'
   B140: '#DAF2EA'
   B150: '#FFFFFF'
-RudeZenith:
+ExpressCorfuWaters:
   B0: '#000000'
-  B10: '#11161A'
-  B20: '#1A252D'
-  B30: '#233541'
-  B40: '#2C4557'
-  B50: '#35576E'
-  B60: '#3E6985'
-  B70: '#487C9E'
-  B80: '#608BA9'
-  B90: '#789BB5'
-  B100: '#8EABC1'
-  B110: '#A5BBCD'
-  B120: '#BBCBD9'
-  B130: '#D1DCE6'
-  B140: '#E8EDF2'
+  B10: '#0E1519'
+  B20: '#14242C'
+  B30: '#183340'
+  B40: '#1B4355'
+  B50: '#1C546B'
+  B60: '#1B6582'
+  B70: '#187799'
+  B80: '#118AB2'
+  B90: '#4B99BC'
+  B100: '#6EAAC7'
+  B110: '#8DBAD2'
+  B120: '#AACBDD'
+  B130: '#C7DCE8'
+  B140: '#E3EDF3'
   B150: '#FFFFFF'
 PromptMarigold:
   B0: '#000000'
@@ -100,6 +100,23 @@ PromptMarigold:
   B120: '#FFC107'
   B130: '#FED68B'
   B140: '#FEEACB'
+  B150: '#FFFFFF'
+NimblePerrywinkle:
+  B0: '#000000'
+  B10: '#15131B'
+  B20: '#23202F'
+  B30: '#312C45'
+  B40: '#403A5C'
+  B50: '#504874'
+  B60: '#60568D'
+  B70: '#7165A7'
+  B80: '#8174C1'
+  B90: '#9384DD'
+  B100: '#A594F9'
+  B110: '#B8A8FA'
+  B120: '#CBBDFC'
+  B130: '#DDD3FD'
+  B140: '#EEE8FE'
   B150: '#FFFFFF'
 MagneticCaribbeanBlueDark:
   B10: '#00B8D4'
@@ -133,8 +150,8 @@ DecidableDireWolfSyntaxDark:
   B30: '#E12DA2'
   B40: '#51cdff'
   B50: '#292727'
-  B60: '#1ABC9C'
-  B70: '#FF4B4B'
+  B60: '#0E5F4F'
+  B70: '#743939'
   B80: '#FAFAFA'
   B90: '#FFC107'
   B100: '#9f8874'
@@ -151,8 +168,8 @@ DecidableDireWolfSyntaxLight:
   B30: '#1ABC9C'  # EDITOR_OCCURRENCE
   B40: '#006B99'  # EDITOR_CTRLCLICK
   B50: '#bbbaba'  # EDITOR_SIDEAREAS
-  B60: '#1ABC9C'  # EDITOR_MATCHED_P (green for matched parentheses)
-  B70: '#FF4B4B'  # EDITOR_UNMATCHED_P (red for unmatched parentheses)
+  B60: '#2ADAB7'  # EDITOR_MATCHED_P (green for matched parentheses)
+  B70: '#FD7777'  # EDITOR_UNMATCHED_P (red for unmatched parentheses)
   B80: '#242323'  # EDITOR_NORMAL (Normal text)
   B90: '#806000'  # EDITOR_KEYWORD (Keyword)
   B100: '#745F4C'  # EDITOR_MAGIC (Macros)

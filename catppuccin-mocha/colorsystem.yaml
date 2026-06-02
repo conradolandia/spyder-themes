@@ -101,6 +101,23 @@ SwiftPeachVelour:
   B130: '#FAD0A6'
   B140: '#FEE7D2'
   B150: '#FFFFFF'
+ExpressCorfuWaters:
+  B0: '#000000'
+  B10: '#0E1519'
+  B20: '#14242C'
+  B30: '#183340'
+  B40: '#1B4355'
+  B50: '#1C546B'
+  B60: '#1B6582'
+  B70: '#187799'
+  B80: '#118AB2'
+  B90: '#4EA3CB'
+  B100: '#6EAAC7'
+  B110: '#8DBAD2'
+  B120: '#AACBDD'
+  B130: '#C7DCE8'
+  B140: '#E3EDF3'
+  B150: '#FFFFFF'
 AsymptoticSprinkledWithPinkDark:
   B10: '#eba0ac'
   B20: '#32BCE3'
@@ -133,8 +150,8 @@ CatppuccinMochaSyntaxDark:
   B30: '#57367D'  # EDITOR_OCCURRENCE
   B40: '#cdd6f4'  # EDITOR_CTRLCLICK
   B50: '#181926'  # EDITOR_SIDEAREAS
-  B60: '#a6e3a1'  # EDITOR_MATCHED_P (green for matched parentheses)
-  B70: '#f38ba8'  # EDITOR_UNMATCHED_P (red for unmatched parentheses)
+  B60: '#3D523B'  # EDITOR_MATCHED_P (green for matched parentheses)
+  B70: '#5F3742'  # EDITOR_UNMATCHED_P (red for unmatched parentheses)
   B80: '#AFB5CE'  # EDITOR_NORMAL (Normal text)
   B90: '#cba6f7'  # EDITOR_KEYWORD (Keyword)
   B100: '#f5e0dc'  # EDITOR_MAGIC (Macros)

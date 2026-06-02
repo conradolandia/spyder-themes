@@ -2,6 +2,7 @@
 color_classes:
   Primary: Gray
   Secondary: Blue
+  Tertiary: Lavender
   Success: Green
   Error: Red
   Warning: Orange
@@ -35,7 +36,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
-    COLOR_EMPTY: Secondary.B40
+    COLOR_EMPTY: Secondary.B30
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B60
@@ -61,7 +62,7 @@ semantic_mappings:
     ICON_4: Error.B70
     ICON_5: Warning.B70
     ICON_6: Primary.B30
-    ICON_7: GroupDark.B90
+    ICON_7: Tertiary.B100
 
     # Colors for variable explorer, and mixed uses of the color system
     GROUP_1: GroupDark.B10
@@ -154,7 +155,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B80
-    COLOR_EMPTY: Secondary.B90
+    COLOR_EMPTY: Secondary.B80
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B40
@@ -180,7 +181,7 @@ semantic_mappings:
     ICON_4: Error.B70
     ICON_5: Warning.B70
     ICON_6: Primary.B120
-    ICON_7: GroupLight.B90
+    ICON_7: Tertiary.B80
 
     # Colors for icons and variable explorer
     GROUP_1: GroupLight.B10
@@ -228,6 +229,7 @@ semantic_mappings:
     EDITOR_NUMBER: [SyntaxLight.B150, false, false]
     EDITOR_INSTANCE: [SyntaxLight.B160, false, true]
     EDITOR_SYMBOL: [SyntaxLight.B170, false, false]
+
     # Colors for Spyder and Python logos
     PYTHON_LOGO_UP: Logos.B10
     PYTHON_LOGO_DOWN: Logos.B20

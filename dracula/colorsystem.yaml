@@ -101,6 +101,23 @@ AdventurousDesertDessert:
   B130: '#FED0A4'
   B140: '#FEE7D3'
   B150: '#FFFFFF'
+NimblePerrywinkle:
+  B0: '#000000'
+  B10: '#15131B'
+  B20: '#23202F'
+  B30: '#312C45'
+  B40: '#403A5C'
+  B50: '#504874'
+  B60: '#60568D'
+  B70: '#7165A7'
+  B80: '#8174C1'
+  B90: '#9384DD'
+  B100: '#A594F9'
+  B110: '#B8A8FA'
+  B120: '#CBBDFC'
+  B130: '#DDD3FD'
+  B140: '#EEE8FE'
+  B150: '#FFFFFF'
 SpryNagaViperPepperDark:
   B10: '#ff5555'
   B20: '#3CB7FE'
@@ -133,8 +150,8 @@ LateHaitiSyntaxDark:
   B30: '#0284A1'  # EDITOR_OCCURRENCE
   B40: '#FFFFFF'  # EDITOR_CTRLCLICK
   B50: '#30323F'  # EDITOR_SIDEAREAS
-  B60: '#8BE9FD'  # EDITOR_MATCHED_P
-  B70: '#FF5555'  # EDITOR_UNMATCHED_P
+  B60: '#417368'  # EDITOR_MATCHED_P
+  B70: '#832E2E'  # EDITOR_UNMATCHED_P
   B80: '#F8F8F2'  # EDITOR_NORMAL (Normal text)
   B90: '#FF79C6'  # EDITOR_KEYWORD (Keyword)
   B100: '#FFB86C'  # EDITOR_MAGIC (Macros)

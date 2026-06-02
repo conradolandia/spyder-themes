@@ -16,39 +16,90 @@ LocalDarkKnight:
   B130: '#D9D7DC'
   B140: '#EBEBED'
   B150: '#FFFFFF'
-LinearThorsThunder:
+IsothermalFreshBlueofBelAir:
   B0: '#000000'
-  B10: '#0F1518'
-  B20: '#172329'
-  B30: '#1E313B'
-  B40: '#24404E'
-  B50: '#2A5062'
-  B60: '#306176'
-  B70: '#36728C'
-  B80: '#3C83A2'
-  B90: '#4195B8'
-  B100: '#46A7CF'
-  B110: '#4BBAE7'
-  B120: '#51CDFF'
-  B130: '#9BDDFE'
-  B140: '#D0EEFE'
+  B10: '#00121F'
+  B20: '#01253F'
+  B30: '#01385F'
+  B40: '#024B7F'
+  B50: '#025D9F'
+  B60: '#0370BF'
+  B70: '#0383DF'
+  B80: '#0496FF'
+  B90: '#23A3FF'
+  B100: '#42B0FF'
+  B110: '#62BDFF'
+  B120: '#81CAFF'
+  B130: '#A0D7FF'
+  B140: '#C0E4FF'
   B150: '#FFFFFF'
-MechanicalGunsNRoses:
+SpeedyMagenta:
   B0: '#000000'
-  B10: '#220F13'
-  B20: '#3D1520'
-  B30: '#5A192E'
-  B40: '#791B3C'
-  B50: '#981C4A'
-  B60: '#B91959'
-  B70: '#DB1269'
-  B80: '#FF0079'
-  B90: '#FE548B'
-  B100: '#FE799D'
-  B110: '#FE98B0'
-  B120: '#FEB3C3'
-  B130: '#FECDD7'
-  B140: '#FEE6EB'
+  B10: '#1F0F1D'
+  B20: '#361535'
+  B30: '#4F1A4E'
+  B40: '#6A1D69'
+  B50: '#861E85'
+  B60: '#A31EA2'
+  B70: '#C01BC0'
+  B80: '#DF14DF'
+  B90: '#FF00FF'
+  B100: '#FE5FFB'
+  B110: '#FE88F9'
+  B120: '#FEAAF9'
+  B130: '#FEC8F9'
+  B140: '#FEE4FB'
+  B150: '#FFFFFF'
+SeriousAnger:
+  B0: '#000000'
+  B10: '#230F11'
+  B20: '#3E151B'
+  B30: '#5B1926'
+  B40: '#791B31'
+  B50: '#991B3D'
+  B60: '#BA1848'
+  B70: '#DD1155'
+  B80: '#E54568'
+  B90: '#ED657B'
+  B100: '#F38090'
+  B110: '#F99AA5'
+  B120: '#FCB4BB'
+  B130: '#FECDD1'
+  B140: '#FEE6E8'
+  B150: '#FFFFFF'
+BrownianDreamyCandyForest:
+  B0: '#000000'
+  B10: '#16121A'
+  B20: '#251E2D'
+  B30: '#342A42'
+  B40: '#453657'
+  B50: '#56436E'
+  B60: '#675085'
+  B70: '#795D9E'
+  B80: '#8C6BB7'
+  B90: '#9A82B9'
+  B100: '#B388EB'
+  B110: '#C39FEF'
+  B120: '#D3B6F3'
+  B130: '#E2CEF7'
+  B140: '#F0E6FB'
+  B150: '#FFFFFF'
+BinaryCyan:
+  B0: '#000000'
+  B10: '#000303'
+  B20: '#000F0F'
+  B30: '#002323'
+  B40: '#003F3F'
+  B50: '#006363'
+  B60: '#008F8F'
+  B70: '#00C3C3'
+  B80: '#00FFFF'
+  B90: '#03FFFF'
+  B100: '#0FFFFF'
+  B110: '#23FFFF'
+  B120: '#3FFFFF'
+  B130: '#63FFFF'
+  B140: '#8FFFFF'
   B150: '#FFFFFF'
 MagneticEmeraldIcePalace:
   B0: '#000000'
@@ -116,8 +167,8 @@ LocalDarkKnightSyntaxDark:
   B30: '#E12DA2'  # EDITOR_OCCURRENCE
   B40: '#51cdff'  # EDITOR_CTRLCLICK
   B50: '#211d35'  # EDITOR_SIDEAREAS
-  B60: '#857AA8'  # EDITOR_MATCHED_P
-  B70: '#954973'  # EDITOR_UNMATCHED_P
+  B60: '#007814'  # EDITOR_MATCHED_P
+  B70: '#6B003B'  # EDITOR_UNMATCHED_P
   B80: '#f8f8f2'  # EDITOR_NORMAL (Normal text)
   B90: '#3cfffc'  # EDITOR_KEYWORD (Keyword)
   B100: '#ffde63'  # EDITOR_MAGIC (Macros)
@@ -135,7 +186,7 @@ LocalDarkKnightSyntaxLight:
   B40: '#006B99'  # EDITOR_CTRLCLICK
   B50: '#f2effa'  # EDITOR_SIDEAREAS
   B60: '#8ab64e'  # EDITOR_MATCHED_P
-  B70: '#c41562'  # EDITOR_UNMATCHED_P
+  B70: '#F44792'  # EDITOR_UNMATCHED_P
   B80: '#252038'  # EDITOR_NORMAL (Normal text)
   B90: '#006e82'  # EDITOR_KEYWORD (Keyword)
   B100: '#7a6210'  # EDITOR_MAGIC (Macros)

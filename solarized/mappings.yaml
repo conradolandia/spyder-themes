@@ -38,7 +38,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
-    COLOR_EMPTY: Secondary.B40
+    COLOR_EMPTY: Secondary.B20
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B90
@@ -64,7 +64,7 @@ semantic_mappings:
     ICON_4: Error.B70
     ICON_5: Warning.B70
     ICON_6: Primary.B30
-    ICON_7: GroupLight.B90
+    ICON_7: Purple.B110
 
     # Colors for icons and variable explorer
     GROUP_1: GroupDark.B10
@@ -112,6 +112,7 @@ semantic_mappings:
     EDITOR_NUMBER: [Syntax.B150, false, false]
     EDITOR_INSTANCE: [Syntax.B160, false, true]
     EDITOR_SYMBOL: [Syntax.B170, false, false]
+
     # Colors for Spyder and Python logos
     PYTHON_LOGO_UP: Logos.B10
     PYTHON_LOGO_DOWN: Logos.B20

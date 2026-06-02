@@ -3,6 +3,7 @@ color_classes:
   Primary: LateHaiti
   Secondary: OpticalNervousNeonPink
   Tertiary: NullaryAlpineExpedition
+  Quaternary: NimblePerrywinkle
   Success: RadiantFlora
   Error: SlowGrapefruit
   Warning: AdventurousDesertDessert
@@ -36,7 +37,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
-    COLOR_EMPTY: Secondary.B60
+    COLOR_EMPTY: Secondary.B40
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B130
@@ -62,7 +63,7 @@ semantic_mappings:
     ICON_4: Error.B90
     ICON_5: Warning.B110
     ICON_6: Primary.B60
-    ICON_7: Secondary.B100
+    ICON_7: Quaternary.B120
 
     # Colors for variable explorer, and mixed uses of the color system
     GROUP_1: GroupDark.B10
@@ -181,7 +182,7 @@ semantic_mappings:
     ICON_4: Error.B70
     ICON_5: Warning.B80
     ICON_6: Primary.B120
-    ICON_7: Secondary.B60
+    ICON_7: Quaternary.B70
 
     # Colors for icons and variable explorer
     GROUP_1: GroupLight.B10

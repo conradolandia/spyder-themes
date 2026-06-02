@@ -33,22 +33,22 @@ QuantumLushBamboo:
   B130: '#E0DC98'
   B140: '#F0EDCB'
   B150: '#FFFFFF'
-HastyTealWithIt:
+SluggishParadiso:
   B0: '#000000'
-  B10: '#0C1618'
-  B20: '#112429'
-  B30: '#14333B'
-  B40: '#13434F'
-  B50: '#105463'
-  B60: '#076678'
-  B70: '#347586'
-  B80: '#508694'
-  B90: '#6A96A3'
-  B100: '#83A7B1'
-  B110: '#9BB8C0'
-  B120: '#B4C9D0'
-  B130: '#CCDBDF'
-  B140: '#E5ECEF'
+  B10: '#020505'
+  B20: '#0A1415'
+  B30: '#152A2B'
+  B40: '#224244'
+  B50: '#2F5A5C'
+  B60: '#3A7072'
+  B70: '#427F82'
+  B80: '#458588'
+  B90: '#4C8A8D'
+  B100: '#62989A'
+  B110: '#7FABAD'
+  B120: '#A2C2C3'
+  B130: '#C4D8D9'
+  B140: '#E1EBEC'
   B150: '#FFFFFF'
 RadiantRedMist:
   B0: '#000000'
@@ -118,6 +118,23 @@ SluggishTigerKing:
   B130: '#F6D4A8'
   B140: '#FCE9D3'
   B150: '#FFFFFF'
+BalancedAster:
+  B0: '#000000'
+  B10: '#050506'
+  B20: '#131219'
+  B30: '#272532'
+  B40: '#3E3A50'
+  B50: '#554F6E'
+  B60: '#696287'
+  B70: '#776F9A'
+  B80: '#7D75A1'
+  B90: '#827AA5'
+  B100: '#918AAF'
+  B110: '#A6A0BE'
+  B120: '#BEBAD0'
+  B130: '#D5D3E1'
+  B140: '#EAE9F0'
+  B150: '#FFFFFF'
 HappyHotspotDark:
   B10: '#689d6a'
   B20: '#fb4934'
@@ -168,8 +185,8 @@ GruvboxSyntaxLight:
   B30: '#d6d4c0'  # EDITOR_OCCURRENCE
   B40: '#3c3836'  # EDITOR_CTRLCLICK
   B50: '#fffce5'  # EDITOR_SIDEAREAS
-  B60: '#98971a'  # EDITOR_MATCHED_P
-  B70: '#d65d0e'  # EDITOR_UNMATCHED_P
+  B60: '#BDBD3C'  # EDITOR_MATCHED_P
+  B70: '#FA7373'  # EDITOR_UNMATCHED_P
   B80: '#1E1A19'  # EDITOR_NORMAL (Normal text)
   B90: '#cc241d'  # EDITOR_KEYWORD (Keyword)
   B100: '#3A7350'  # EDITOR_MAGIC (Macros)

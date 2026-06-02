@@ -2,7 +2,8 @@
 color_classes:
   Primary: DecidableDireWolf
   Secondary: CriticalHeartbeat
-  Tertiary: RudeZenith
+  Tertiary: ExpressCorfuWaters
+  Quaternary: NimblePerrywinkle
   Success: PokyTurquoise
   Error: AbsoluteVampireRed
   Warning: PromptMarigold
@@ -57,12 +58,12 @@ semantic_mappings:
 
     # Icon colors
     ICON_1: Primary.B140
-    ICON_2: GroupDark.B60
+    ICON_2: Tertiary.B100
     ICON_3: Success.B100
     ICON_4: Error.B90
     ICON_5: Warning.B90
     ICON_6: Primary.B30
-    ICON_7: Secondary.B100
+    ICON_7: Quaternary.B120
 
     # Colors for variable explorer, and mixed uses of the color system
     GROUP_1: GroupDark.B10
@@ -181,7 +182,7 @@ semantic_mappings:
     ICON_4: Error.B60
     ICON_5: Warning.B80
     ICON_6: Primary.B120
-    ICON_7: Secondary.B70
+    ICON_7: Quaternary.B70
 
     # Colors for icons and variable explorer
     GROUP_1: GroupLight.B10

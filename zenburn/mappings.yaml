@@ -3,6 +3,7 @@ color_classes:
   Primary: ChromaticBlackPanther
   Secondary: HastySodaPop
   Tertiary: HastyFrenchBlue
+  Quaternary: InstantTwinkleNight
   Success: InternalVictorianGarden
   Error: FreeWatermelonGelato
   Warning: BindingLunaticLynx
@@ -36,7 +37,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
-    COLOR_EMPTY: Secondary.B70
+    COLOR_EMPTY: Secondary.B50
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B90
@@ -57,7 +58,7 @@ semantic_mappings:
     ICON_4: Error.B80
     ICON_5: Warning.B90
     ICON_6: Primary.B30
-    ICON_7: Error.B90
+    ICON_7: Quaternary.B100
 
     # Colors for variable explorer, and mixed uses of the color system
     GROUP_1: GroupDark.B10
@@ -171,7 +172,7 @@ semantic_mappings:
     ICON_4: Error.B50
     ICON_5: Warning.B80
     ICON_6: Primary.B130
-    ICON_7: Error.B70
+    ICON_7: Quaternary.B70
 
     # Colors for icons and variable explorer
     GROUP_1: GroupLight.B10

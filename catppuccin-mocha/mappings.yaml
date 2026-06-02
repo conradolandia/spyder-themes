@@ -3,6 +3,7 @@ color_classes:
   Primary: FastBlackVelvet
   Secondary: CompletePurpleIllusion
   Tertiary: ResonntFlyAway
+  Quaternary: ExpressCorfuWaters
   Success: ExpressGrapeGreen
   Error: NuclearRocknRose
   Warning: SwiftPeachVelour
@@ -57,12 +58,12 @@ semantic_mappings:
 
     # Icon colors
     ICON_1: Primary.B140
-    ICON_2: Secondary.B110
+    ICON_2: Quaternary.B90
     ICON_3: Success.B110
     ICON_4: Error.B70
     ICON_5: Warning.B90
     ICON_6: Primary.B50
-    ICON_7: GroupDark.B90
+    ICON_7: Secondary.B110
 
     # Colors for variable explorer, and mixed uses of the color system
     GROUP_1: GroupDark.B10
@@ -147,11 +148,11 @@ semantic_mappings:
     COLOR_TEXT_4: Primary.B50
 
     # Accent colors
-    COLOR_ACCENT_1: Secondary.B100
-    COLOR_ACCENT_2: Secondary.B90
-    COLOR_ACCENT_3: Secondary.B80
-    COLOR_ACCENT_4: Secondary.B70
-    COLOR_ACCENT_5: Secondary.B60
+    COLOR_ACCENT_1: Secondary.B80
+    COLOR_ACCENT_2: Secondary.B70
+    COLOR_ACCENT_3: Secondary.B60
+    COLOR_ACCENT_4: Secondary.B50
+    COLOR_ACCENT_5: Secondary.B40
 
     # Disabled elements
     COLOR_DISABLED: Primary.B80
@@ -176,12 +177,12 @@ semantic_mappings:
 
     # Icon colors
     ICON_1: Primary.B30
-    ICON_2: GroupLight.B70
-    ICON_3: Success.B70
+    ICON_2: Quaternary.B70
+    ICON_3: Success.B80
     ICON_4: Error.B80
     ICON_5: Warning.B60
     ICON_6: Primary.B130
-    ICON_7: Secondary.B60
+    ICON_7: Secondary.B70
 
     # Colors for icons and variable explorer
     GROUP_1: GroupLight.B10

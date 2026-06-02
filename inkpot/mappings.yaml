@@ -2,7 +2,7 @@
 color_classes:
   Primary: UndirectedHaiti
   Secondary: CalmPerrywinkle
-  Tertiary: HastyBlueVelvet
+  Tertiary: BipartiteCorfuWaters
   Success: CoherentPhosphorGreen
   Error: ReligiousIntrigueRed
   Warning: PrimaryEndofSummer
@@ -62,7 +62,7 @@ semantic_mappings:
     ICON_4: Error.B90
     ICON_5: Warning.B90
     ICON_6: Primary.B30
-    ICON_7: GroupDark.B90
+    ICON_7: Secondary.B100
 
     # Colors for variable explorer, and mixed uses of the color system
     GROUP_1: GroupDark.B10
@@ -149,9 +149,9 @@ semantic_mappings:
     # Accent colors
     COLOR_ACCENT_1: Secondary.B100
     COLOR_ACCENT_2: Secondary.B90
-    COLOR_ACCENT_3: Secondary.B80
-    COLOR_ACCENT_4: Secondary.B70
-    COLOR_ACCENT_5: Secondary.B60
+    COLOR_ACCENT_3: Secondary.B70
+    COLOR_ACCENT_4: Secondary.B60
+    COLOR_ACCENT_5: Secondary.B50
 
     # Disabled elements
     COLOR_DISABLED: Primary.B80
@@ -176,12 +176,12 @@ semantic_mappings:
 
     # Icon colors
     ICON_1: Primary.B20
-    ICON_2: Tertiary.B60
-    ICON_3: Success.B60
+    ICON_2: Tertiary.B70
+    ICON_3: Success.B70
     ICON_4: Error.B70
     ICON_5: Warning.B80
     ICON_6: Primary.B120
-    ICON_7: Error.B50
+    ICON_7: Secondary.B70
 
     # Colors for icons and variable explorer
     GROUP_1: GroupLight.B10
