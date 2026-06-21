@@ -155,16 +155,16 @@ ConcurrentMidnightMirageSyntaxLight:
   B50: '#EFEFEF'  # EDITOR_SIDEAREAS
   B60: '#99FF99'  # EDITOR_MATCHED_P
   B70: '#F99F9F'  # EDITOR_UNMATCHED_P
-  B80: '#111111'  # EDITOR_NORMAL (Normal text)
+  B80: '#000001'  # EDITOR_NORMAL (Normal text)
   B90: '#8B4500'  # EDITOR_KEYWORD (Keyword)
   B100: '#8B4500'  # EDITOR_MAGIC (Macros)
-  B110: '#900090'  # EDITOR_BUILTIN (Builtins)
+  B110: '#00609B'  # EDITOR_BUILTIN (Builtins)
   B120: '#0000FF'  # EDITOR_DEFINITION (Methods, Functions, Classes, Interfaces, Types)
   B130: '#DD0000'  # EDITOR_COMMENT (Comments)
   B140: '#007700'  # EDITOR_STRING (Strings, Escape Sequences, Regex)
-  B150: '#924900'  # EDITOR_NUMBER (Constants, Numbers)
-  B160: '#636363'  # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
-  B170: '#AA2A96'  # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
+  B150: '#826400'  # EDITOR_NUMBER (Constants, Numbers)
+  B160: '#6F6464'  # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
+  B170: '#BC23A5'  # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
 Logos:
   B10: '#3775a9'
   B20: '#ffd444'

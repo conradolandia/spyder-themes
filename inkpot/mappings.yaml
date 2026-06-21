@@ -104,11 +104,11 @@ semantic_mappings:
     EDITOR_KEYWORD: [Syntax.B90, false, false]
     EDITOR_MAGIC: [Syntax.B100, false, false]
     EDITOR_BUILTIN: [Syntax.B110, false, false]
-    EDITOR_DEFINITION: [Syntax.B120, false, false]
+    EDITOR_DEFINITION: [Syntax.B120, true, false]
     EDITOR_COMMENT: [Syntax.B130, false, false]
     EDITOR_STRING: [Syntax.B140, false, false]
     EDITOR_NUMBER: [Syntax.B150, false, false]
-    EDITOR_INSTANCE: [Syntax.B160, false, false]
+    EDITOR_INSTANCE: [Syntax.B160, false, true]
     EDITOR_SYMBOL: [Syntax.B170, false, false]
 
     # Colors for Spyder and Python logos
@@ -127,7 +127,7 @@ semantic_mappings:
 
     # For editor tooltips
     TIP_TITLE_COLOR: Success.B80
-    TIP_CHAR_HIGHLIGHT_COLOR: Warning.B90
+    TIP_CHAR_HIGHLIGHT_COLOR: Syntax.B170
 
     # Tooltip opacity (numeric value, not a color reference)
     OPACITY_TOOLTIP: 230
@@ -141,10 +141,10 @@ semantic_mappings:
     COLOR_BACKGROUND_6: Primary.B90
 
     # Text colors
-    COLOR_TEXT_1: Primary.B20
-    COLOR_TEXT_2: Primary.B30
-    COLOR_TEXT_3: Primary.B40
-    COLOR_TEXT_4: Primary.B50
+    COLOR_TEXT_1: Primary.B10
+    COLOR_TEXT_2: Primary.B20
+    COLOR_TEXT_3: Primary.B30
+    COLOR_TEXT_4: Primary.B40
 
     # Accent colors
     COLOR_ACCENT_1: Secondary.B100
@@ -223,11 +223,11 @@ semantic_mappings:
     EDITOR_KEYWORD: [SyntaxLight.B90, true, false]
     EDITOR_MAGIC: [SyntaxLight.B100, true, false]
     EDITOR_BUILTIN: [SyntaxLight.B110, false, false]
-    EDITOR_DEFINITION: [SyntaxLight.B120, false, false]
+    EDITOR_DEFINITION: [SyntaxLight.B120, true, false]
     EDITOR_COMMENT: [SyntaxLight.B130, false, false]
     EDITOR_STRING: [SyntaxLight.B140, false, false]
     EDITOR_NUMBER: [SyntaxLight.B150, false, false]
-    EDITOR_INSTANCE: [SyntaxLight.B160, false, false]
+    EDITOR_INSTANCE: [SyntaxLight.B160, false, true]
     EDITOR_SYMBOL: [SyntaxLight.B170, false, false]
 
     # Colors for Spyder and Python logos
@@ -246,7 +246,7 @@ semantic_mappings:
 
     # For editor tooltips
     TIP_TITLE_COLOR: Success.B30
-    TIP_CHAR_HIGHLIGHT_COLOR: Warning.B40
+    TIP_CHAR_HIGHLIGHT_COLOR: SyntaxLight.B170
 
     # Tooltip opacity (numeric value, not a color reference)
     OPACITY_TOOLTIP: 230

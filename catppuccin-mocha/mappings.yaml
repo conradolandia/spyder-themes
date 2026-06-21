@@ -4,7 +4,7 @@ color_classes:
   Secondary: CompletePurpleIllusion
   Tertiary: ResonntFlyAway
   Quaternary: ExpressCorfuWaters
-  Success: ExpressGrapeGreen
+  Success: BrutalSacroBosco
   Error: NuclearRocknRose
   Warning: SwiftPeachVelour
   GroupDark: AsymptoticSprinkledWithPinkDark
@@ -63,7 +63,7 @@ semantic_mappings:
     ICON_4: Error.B70
     ICON_5: Warning.B90
     ICON_6: Primary.B50
-    ICON_7: Secondary.B110
+    ICON_7: Syntax.B90
 
     # Colors for variable explorer, and mixed uses of the color system
     GROUP_1: GroupDark.B10
@@ -128,7 +128,7 @@ semantic_mappings:
 
     # For editor tooltips
     TIP_TITLE_COLOR: Success.B80
-    TIP_CHAR_HIGHLIGHT_COLOR: Warning.B90
+    TIP_CHAR_HIGHLIGHT_COLOR: Syntax.B170
 
     # Tooltip opacity (numeric value, not a color reference)
     OPACITY_TOOLTIP: 230
@@ -148,11 +148,11 @@ semantic_mappings:
     COLOR_TEXT_4: Primary.B50
 
     # Accent colors
-    COLOR_ACCENT_1: Secondary.B80
-    COLOR_ACCENT_2: Secondary.B70
-    COLOR_ACCENT_3: Secondary.B60
-    COLOR_ACCENT_4: Secondary.B50
-    COLOR_ACCENT_5: Secondary.B40
+    COLOR_ACCENT_1: Secondary.B130
+    COLOR_ACCENT_2: Secondary.B120 
+    COLOR_ACCENT_3: Secondary.B90
+    COLOR_ACCENT_4: Secondary.B60
+    COLOR_ACCENT_5: Secondary.B30
 
     # Disabled elements
     COLOR_DISABLED: Primary.B80
@@ -182,7 +182,7 @@ semantic_mappings:
     ICON_4: Error.B80
     ICON_5: Warning.B60
     ICON_6: Primary.B130
-    ICON_7: Secondary.B70
+    ICON_7: Secondary.B60
 
     # Colors for icons and variable explorer
     GROUP_1: GroupLight.B10
@@ -240,14 +240,14 @@ semantic_mappings:
 
     # For special tabs
     SPECIAL_TABS_SEPARATOR: Primary.B80
-    SPECIAL_TABS_SELECTED: Secondary.B90
+    SPECIAL_TABS_SELECTED: Secondary.B80
 
     # For the heart used to ask for donations
     COLOR_HEART: Error.B70
 
     # For editor tooltips
-    TIP_TITLE_COLOR: Success.B30
-    TIP_CHAR_HIGHLIGHT_COLOR: Warning.B40
+    TIP_TITLE_COLOR: Success.B70
+    TIP_CHAR_HIGHLIGHT_COLOR: SyntaxLight.B170
 
     # Tooltip opacity (numeric value, not a color reference)
     OPACITY_TOOLTIP: 230

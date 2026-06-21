@@ -151,16 +151,16 @@ AgileLeadSyntaxDark:
   B40: '#FFFFFF'  # EDITOR_CTRLCLICK
   B50: '#2F2F2F'  # EDITOR_SIDEAREAS
   B60: '#3B7A00'  # EDITOR_MATCHED_P
-  B70: '#8E0246'  # EDITOR_UNMATCHED_P
+  B70: '#8E0212'  # EDITOR_UNMATCHED_P
   B80: '#F0DFCD'  # EDITOR_NORMAL (Normal text)
   B90: '#FF007F'  # EDITOR_KEYWORD (Keyword)
   B100: '#FF007F'  # EDITOR_MAGIC (Macros)
   B110: '#52E3F6'  # EDITOR_BUILTIN (Builtins)
   B120: '#A7EC21'  # EDITOR_DEFINITION (Methods, Functions, Classes, Interfaces, Types)
-  B130: '#FFFFFF'  # EDITOR_COMMENT (Comments)
+  B130: '#7B7B7B'  # EDITOR_COMMENT (Comments)
   B140: '#ECE47E'  # EDITOR_STRING (Strings, Escape Sequences, Regex)
   B150: '#C48CFF'  # EDITOR_NUMBER (Constants, Numbers)
-  B160: '#CFBFAD'  # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
+  B160: '#C68841'  # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
   B170: '#D26366'  # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
 AgileLeadSyntaxLight:
   B10: '#E0E0E0'  # EDITOR_CURRENTLINE
@@ -168,18 +168,18 @@ AgileLeadSyntaxLight:
   B30: '#C2E8FF'  # EDITOR_OCCURRENCE
   B40: '#000000'  # EDITOR_CTRLCLICK
   B50: '#EDEDED'  # EDITOR_SIDEAREAS
-  B60: '#84C13E'  # EDITOR_MATCHED_P
-  B70: '#FF4FA7'  # EDITOR_UNMATCHED_P
+  B60: '#92B36C'  # EDITOR_MATCHED_P
+  B70: '#FF4F4F'  # EDITOR_UNMATCHED_P
   B80: '#111111'  # EDITOR_NORMAL (Normal text)
-  B90: '#b8124d'  # EDITOR_KEYWORD (Keyword)
-  B100: '#b8124d'  # EDITOR_MAGIC (Macros)
-  B110: '#327C86'  # EDITOR_BUILTIN (Builtins)
+  B90: '#966900'  # EDITOR_KEYWORD (Keyword)
+  B100: '#C10585'  # EDITOR_MAGIC (Macros)
+  B110: '#00718E'  # EDITOR_BUILTIN (Builtins)
   B120: '#597C13'  # EDITOR_DEFINITION (Methods, Functions, Classes, Interfaces, Types)
-  B130: '#9F9F8F'  # EDITOR_COMMENT (Comments)
-  B140: '#B85C43'  # EDITOR_STRING (Strings, Escape Sequences, Regex)
+  B130: '#8A8A8A'  # EDITOR_COMMENT (Comments)
+  B140: '#007C4F'  # EDITOR_STRING (Strings, Escape Sequences, Regex)
   B150: '#8442FF'  # EDITOR_NUMBER (Constants, Numbers)
-  B160: '#C74900'  # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
-  B170: '#993645'  # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
+  B160: '#722A00'  # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
+  B170: '#CD001F'  # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
 Logos:
   B10: '#3775a9'
   B20: '#ffd444'

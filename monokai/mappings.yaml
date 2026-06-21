@@ -37,7 +37,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
-    COLOR_EMPTY: Secondary.B30
+    COLOR_EMPTY: Secondary.B60
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B100
@@ -109,7 +109,7 @@ semantic_mappings:
     EDITOR_COMMENT: [Syntax.B130, false, false]
     EDITOR_STRING: [Syntax.B140, false, false]
     EDITOR_NUMBER: [Syntax.B150, false, false]
-    EDITOR_INSTANCE: [Syntax.B160, false, false]
+    EDITOR_INSTANCE: [Syntax.B160, false, true]
     EDITOR_SYMBOL: [Syntax.B170, false, false]
     # Colors for Spyder and Python logos
     PYTHON_LOGO_UP: Logos.B10
@@ -120,14 +120,14 @@ semantic_mappings:
 
     # For special tabs
     SPECIAL_TABS_SEPARATOR: Primary.B70
-    SPECIAL_TABS_SELECTED: Secondary.B40
+    SPECIAL_TABS_SELECTED: Secondary.B50
 
     # For the heart used to ask for donations
     COLOR_HEART: Secondary.B80
 
     # For editor tooltips
     TIP_TITLE_COLOR: Success.B80
-    TIP_CHAR_HIGHLIGHT_COLOR: Warning.B90
+    TIP_CHAR_HIGHLIGHT_COLOR: Syntax.B170
 
     # Tooltip opacity (numeric value, not a color reference)
     OPACITY_TOOLTIP: 230
@@ -147,11 +147,11 @@ semantic_mappings:
     COLOR_TEXT_4: Primary.B50
 
     # Accent colors
-    COLOR_ACCENT_1: Secondary.B90
-    COLOR_ACCENT_2: Secondary.B80
-    COLOR_ACCENT_3: Secondary.B70
-    COLOR_ACCENT_4: Secondary.B60
-    COLOR_ACCENT_5: Secondary.B50
+    COLOR_ACCENT_1: Secondary.B120
+    COLOR_ACCENT_2: Secondary.B110
+    COLOR_ACCENT_3: Secondary.B100
+    COLOR_ACCENT_4: Secondary.B70
+    COLOR_ACCENT_5: Secondary.B60
 
     # Disabled elements
     COLOR_DISABLED: Primary.B80
@@ -227,7 +227,7 @@ semantic_mappings:
     EDITOR_COMMENT: [SyntaxLight.B130, false, false]
     EDITOR_STRING: [SyntaxLight.B140, false, false]
     EDITOR_NUMBER: [SyntaxLight.B150, false, false]
-    EDITOR_INSTANCE: [SyntaxLight.B160, false, false]
+    EDITOR_INSTANCE: [SyntaxLight.B160, false, true]
     EDITOR_SYMBOL: [SyntaxLight.B170, false, false]
 
     # Colors for Spyder and Python logos
@@ -246,7 +246,7 @@ semantic_mappings:
 
     # For editor tooltips
     TIP_TITLE_COLOR: Success.B30
-    TIP_CHAR_HIGHLIGHT_COLOR: Warning.B40
+    TIP_CHAR_HIGHLIGHT_COLOR: SyntaxLight.B170
 
     # Tooltip opacity (numeric value, not a color reference)
     OPACITY_TOOLTIP: 230

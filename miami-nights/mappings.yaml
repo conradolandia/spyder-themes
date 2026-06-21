@@ -37,7 +37,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
-    COLOR_EMPTY: Secondary.B50
+    COLOR_EMPTY: Secondary.B70
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B120
@@ -127,8 +127,8 @@ semantic_mappings:
     COLOR_HEART: Secondary.B80
 
     # For editor tooltips
-    TIP_TITLE_COLOR: Success.B80
-    TIP_CHAR_HIGHLIGHT_COLOR: Warning.B90
+    TIP_TITLE_COLOR: Success.B110
+    TIP_CHAR_HIGHLIGHT_COLOR: Syntax.B170
 
     # Tooltip opacity (numeric value, not a color reference)
     OPACITY_TOOLTIP: 230
@@ -148,11 +148,11 @@ semantic_mappings:
     COLOR_TEXT_4: Primary.B50
 
     # Accent colors
-    COLOR_ACCENT_1: Secondary.B90
-    COLOR_ACCENT_2: Secondary.B80
-    COLOR_ACCENT_3: Secondary.B70
-    COLOR_ACCENT_4: Secondary.B60
-    COLOR_ACCENT_5: Secondary.B50
+    COLOR_ACCENT_1: Secondary.B130
+    COLOR_ACCENT_2: Secondary.B120
+    COLOR_ACCENT_3: Secondary.B50
+    COLOR_ACCENT_4: Secondary.B40
+    COLOR_ACCENT_5: Secondary.B30
 
     # Disabled elements
     COLOR_DISABLED: Primary.B80
@@ -182,7 +182,7 @@ semantic_mappings:
     ICON_4: Error.B70
     ICON_5: Warning.B80
     ICON_6: Primary.B120
-    ICON_7: Quaternary.B70
+    ICON_7: Secondary.B60
 
     # Colors for icons and variable explorer
     GROUP_1: GroupLight.B10
@@ -246,8 +246,8 @@ semantic_mappings:
     COLOR_HEART: Error.B70
 
     # For editor tooltips
-    TIP_TITLE_COLOR: Success.B30
-    TIP_CHAR_HIGHLIGHT_COLOR: Warning.B40
+    TIP_TITLE_COLOR: Success.B70
+    TIP_CHAR_HIGHLIGHT_COLOR: SyntaxLight.B170
 
     # Tooltip opacity (numeric value, not a color reference)
     OPACITY_TOOLTIP: 230

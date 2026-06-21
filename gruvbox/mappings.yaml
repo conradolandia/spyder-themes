@@ -38,7 +38,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
-    COLOR_EMPTY: Secondary.B40
+    COLOR_EMPTY: Secondary.B70
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B100
@@ -104,9 +104,9 @@ semantic_mappings:
     EDITOR_UNMATCHED_P: Syntax.B70
     EDITOR_NORMAL: [Syntax.B80, false, false]
     EDITOR_KEYWORD: [Syntax.B90, true, false]
-    EDITOR_MAGIC: [Syntax.B100, true, false]
+    EDITOR_MAGIC: [Syntax.B100, false, false]
     EDITOR_BUILTIN: [Syntax.B110, false, false]
-    EDITOR_DEFINITION: [Syntax.B120, false, false]
+    EDITOR_DEFINITION: [Syntax.B120, true, false]
     EDITOR_COMMENT: [Syntax.B130, false, true]
     EDITOR_STRING: [Syntax.B140, false, false]
     EDITOR_NUMBER: [Syntax.B150, false, false]
@@ -128,8 +128,8 @@ semantic_mappings:
     COLOR_HEART: Secondary.B80
 
     # For editor tooltips
-    TIP_TITLE_COLOR: Success.B80
-    TIP_CHAR_HIGHLIGHT_COLOR: Warning.B90
+    TIP_TITLE_COLOR: Success.B110
+    TIP_CHAR_HIGHLIGHT_COLOR: Syntax.B170
 
     # Tooltip opacity (numeric value, not a color reference)
     OPACITY_TOOLTIP: 230
@@ -150,14 +150,14 @@ semantic_mappings:
 
     # Accent colors
     COLOR_ACCENT_1: Neutral.B110
-    COLOR_ACCENT_2: Neutral.B90
-    COLOR_ACCENT_3: Neutral.B80
-    COLOR_ACCENT_4: Neutral.B70
-    COLOR_ACCENT_5: Neutral.B60
+    COLOR_ACCENT_2: Neutral.B100
+    COLOR_ACCENT_3: Neutral.B90
+    COLOR_ACCENT_4: Neutral.B80
+    COLOR_ACCENT_5: Neutral.B70
 
     # Disabled elements
     COLOR_DISABLED: Primary.B90
-    COLOR_EMPTY: Neutral.B110
+    COLOR_EMPTY: Neutral.B90
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B90
@@ -183,7 +183,7 @@ semantic_mappings:
     ICON_4: Error.B80
     ICON_5: Warning.B80
     ICON_6: Primary.B90
-    ICON_7: Quaternary.B70
+    ICON_7: Quaternary.B60
 
     # Colors for icons and variable explorer
     GROUP_1: GroupLight.B10
@@ -223,14 +223,15 @@ semantic_mappings:
     EDITOR_UNMATCHED_P: SyntaxLight.B70
     EDITOR_NORMAL: [SyntaxLight.B80, false, false]
     EDITOR_KEYWORD: [SyntaxLight.B90, true, false]
-    EDITOR_MAGIC: [SyntaxLight.B100, true, false]
+    EDITOR_MAGIC: [SyntaxLight.B100, false, false]
     EDITOR_BUILTIN: [SyntaxLight.B110, false, false]
-    EDITOR_DEFINITION: [SyntaxLight.B120, false, false]
+    EDITOR_DEFINITION: [SyntaxLight.B120, true, false]
     EDITOR_COMMENT: [SyntaxLight.B130, false, true]
     EDITOR_STRING: [SyntaxLight.B140, false, false]
     EDITOR_NUMBER: [SyntaxLight.B150, false, false]
     EDITOR_INSTANCE: [SyntaxLight.B160, false, true]
     EDITOR_SYMBOL: [SyntaxLight.B170, false, false]
+    
     # Colors for Spyder and Python logos
     PYTHON_LOGO_UP: Logos.B10
     PYTHON_LOGO_DOWN: Logos.B20
@@ -240,14 +241,14 @@ semantic_mappings:
 
     # For special tabs
     SPECIAL_TABS_SEPARATOR: Primary.B90
-    SPECIAL_TABS_SELECTED: Neutral.B100
+    SPECIAL_TABS_SELECTED: Neutral.B80
 
     # For the heart used to ask for donations
     COLOR_HEART: Error.B70
 
     # For editor tooltips
-    TIP_TITLE_COLOR: Success.B30
-    TIP_CHAR_HIGHLIGHT_COLOR: Warning.B40
+    TIP_TITLE_COLOR: Success.B70
+    TIP_CHAR_HIGHLIGHT_COLOR: SyntaxLight.B170
 
     # Tooltip opacity (numeric value, not a color reference)
     OPACITY_TOOLTIP: 230

@@ -145,44 +145,44 @@ MagneticCaribbeanBlueLight:
   B110: '#515364'
   B120: '#738877'
 DecidableDireWolfSyntaxDark:
-  B10: '#4f4d4d'
-  B20: '#3b3a3a'
-  B30: '#E12DA2'
-  B40: '#51cdff'
-  B50: '#292727'
-  B60: '#0E5F4F'
-  B70: '#743939'
-  B80: '#FAFAFA'
-  B90: '#FFC107'
-  B100: '#9f8874'
-  B110: '#A9A59E'
-  B120: '#d6c9bb'
-  B130: '#696092'
-  B140: '#A0AA78'
-  B150: '#9CAC6C'
-  B160: '#746b5c'
-  B170: '#9a8b74'
+  B10: '#4F4D4D'  # EDITOR_CURRENTLINE
+  B20: '#3B3A3A'  # EDITOR_CURRENTCELL
+  B30: '#E12DA2'  # EDITOR_OCCURRENCE
+  B40: '#51CDFF'  # EDITOR_CTRLCLICK
+  B50: '#292727'  # EDITOR_SIDEAREAS
+  B60: '#0B4D3F'  # EDITOR_MATCHED_P (green for matched parentheses)
+  B70: '#743939'  # EDITOR_UNMATCHED_P (red for unmatched parentheses)
+  B80: '#FAFAFA'  # EDITOR_NORMAL (Normal text)
+  B90: '#FFC107'  # EDITOR_KEYWORD (Keyword)
+  B100: '#D3D298' # EDITOR_MAGIC (Macros)
+  B110: '#E89045' # EDITOR_BUILTIN (Builtins)
+  B120: '#A9B1D2' # EDITOR_DEFINITION (Methods, Functions, Classes, Interfaces, Types)
+  B130: '#8D8D8D' # EDITOR_COMMENT (Comments)
+  B140: '#A0BE85' # EDITOR_STRING (Strings, Escape Sequences, Regex)
+  B150: '#8BC4D7' # EDITOR_NUMBER (Constants, Numbers)
+  B160: '#FCC99C' # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
+  B170: '#F94D39' # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
 DecidableDireWolfSyntaxLight:
-  B10: '#aaaaaa'  # EDITOR_CURRENTLINE
-  B20: '#a4a3a3'  # EDITOR_CURRENTCELL
-  B30: '#1ABC9C'  # EDITOR_OCCURRENCE
+  B10: '#AAAAAA'  # EDITOR_CURRENTLINE
+  B20: '#A4A3A3'  # EDITOR_CURRENTCELL
+  B30: '#8FBFB6'  # EDITOR_OCCURRENCE
   B40: '#006B99'  # EDITOR_CTRLCLICK
-  B50: '#bbbaba'  # EDITOR_SIDEAREAS
-  B60: '#2ADAB7'  # EDITOR_MATCHED_P (green for matched parentheses)
+  B50: '#BBBABA'  # EDITOR_SIDEAREAS
+  B60: '#31CFAF'  # EDITOR_MATCHED_P (green for matched parentheses)
   B70: '#FD7777'  # EDITOR_UNMATCHED_P (red for unmatched parentheses)
-  B80: '#242323'  # EDITOR_NORMAL (Normal text)
+  B80: '#3C3C3C'  # EDITOR_NORMAL (Normal text)
   B90: '#806000'  # EDITOR_KEYWORD (Keyword)
-  B100: '#745F4C'  # EDITOR_MAGIC (Macros)
-  B110: '#4f4b45'  # EDITOR_BUILTIN (Builtins)
-  B120: '#6C6155'  # EDITOR_DEFINITION (Methods, Functions, Classes, Interfaces, Types)
-  B130: '#696092'  # EDITOR_COMMENT (Comments)
-  B140: '#59692D'  # EDITOR_STRING (Strings, Escape Sequences, Regex)
-  B150: '#486D0C'  # EDITOR_NUMBER (Constants, Numbers)
-  B160: '#6A6253'  # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
-  B170: '#6E614B'  # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
+  B100: '#395B53' # EDITOR_MAGIC (Macros)
+  B110: '#4F4B45' # EDITOR_BUILTIN (Builtins)
+  B120: '#3E5271' # EDITOR_DEFINITION (Methods, Functions, Classes, Interfaces, Types)
+  B130: '#6958B6' # EDITOR_COMMENT (Comments)
+  B140: '#556033' # EDITOR_STRING (Strings, Escape Sequences, Regex)
+  B150: '#007A8A' # EDITOR_NUMBER (Constants, Numbers)
+  B160: '#725724' # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
+  B170: '#B80900' # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
 Logos:
-  B10: '#3775a9'
-  B20: '#ffd444'
+  B10: '#3775A9'
+  B20: '#FFD444'
   B30: '#414141'
-  B40: '#fafafa'
-  B50: '#8c0000'
+  B40: '#FAFAFA'
+  B50: '#8C0000'

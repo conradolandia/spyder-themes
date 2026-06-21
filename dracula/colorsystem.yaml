@@ -155,31 +155,31 @@ LateHaitiSyntaxDark:
   B80: '#F8F8F2'  # EDITOR_NORMAL (Normal text)
   B90: '#FF79C6'  # EDITOR_KEYWORD (Keyword)
   B100: '#FFB86C'  # EDITOR_MAGIC (Macros)
-  B110: '#d7b2ff'  # EDITOR_BUILTIN (Builtins)
+  B110: '#8be9fd'  # EDITOR_BUILTIN (Builtins)
   B120: '#50FA7B'  # EDITOR_DEFINITION (Methods, Functions, Classes, Interfaces, Types)
-  B130: '#6272A4'  # EDITOR_COMMENT (Comments)
+  B130: '#717B9A'  # EDITOR_COMMENT (Comments)
   B140: '#F1FA8C'  # EDITOR_STRING (Strings, Escape Sequences, Regex)
-  B150: '#ffb2f7'  # EDITOR_NUMBER (Constants, Numbers)
-  B160: '#f4f1f0'  # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
-  B170: '#c4aae3'  # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
+  B150: '#bd93f9'  # EDITOR_NUMBER (Constants, Numbers)
+  B160: '#EBC6BA'  # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
+  B170: '#ff5555'  # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
 LateHaitiSyntaxLight:
   B10: '#e6e6e6'  # EDITOR_CURRENTLINE
   B20: '#ededed'  # EDITOR_CURRENTCELL
   B30: '#ddd7fa'  # EDITOR_OCCURRENCE
   B40: '#000000'  # EDITOR_CTRLCLICK
   B50: '#f0f0f0'  # EDITOR_SIDEAREAS
-  B60: '#82b779'  # EDITOR_MATCHED_P
-  B70: '#ca7d6f'  # EDITOR_UNMATCHED_P
+  B60: '#99D48F'  # EDITOR_MATCHED_P
+  B70: '#DA887A'  # EDITOR_UNMATCHED_P
   B80: '#282a36'  # EDITOR_NORMAL (Normal text)
-  B90: '#ad3070'  # EDITOR_KEYWORD (Keyword)
-  B100: '#9b6020'  # EDITOR_MAGIC (Macros)
-  B110: '#7b4e83'  # EDITOR_BUILTIN (Builtins)
-  B120: '#3B7431'  # EDITOR_DEFINITION (Methods, Functions, Classes, Interfaces, Types)
-  B130: '#7e869a'  # EDITOR_COMMENT (Comments)
-  B140: '#7c5015'  # EDITOR_STRING (Strings, Escape Sequences, Regex)
-  B150: '#5247a3'  # EDITOR_NUMBER (Constants, Numbers)
-  B160: '#404045'  # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
-  B170: '#3e3052'  # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
+  B90: '#C73E8A'  # EDITOR_KEYWORD (Keyword)
+  B100: '#814B13'  # EDITOR_MAGIC (Macros)
+  B110: '#267919'  # EDITOR_BUILTIN (Builtins)
+  B120: '#5F7B36'  # EDITOR_DEFINITION (Methods, Functions, Classes, Interfaces, Types)
+  B130: '#6272a4'  # EDITOR_COMMENT (Comments)
+  B140: '#897000'  # EDITOR_STRING (Strings, Escape Sequences, Regex)
+  B150: '#3F7B7C'  # EDITOR_NUMBER (Constants, Numbers)
+  B160: '#7B0552'  # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
+  B170: '#BC3333'  # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
 Logos:
   B10: '#3775a9'
   B20: '#ffd444'
