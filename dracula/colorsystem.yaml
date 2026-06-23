@@ -163,7 +163,7 @@ LateHaitiSyntaxDark:
   B160: '#EBC6BA'  # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
   B170: '#ff5555'  # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
 LateHaitiSyntaxLight:
-  B10: '#e6e6e6'  # EDITOR_CURRENTLINE
+  B10: '#DBDBDB'  # EDITOR_CURRENTLINE
   B20: '#ededed'  # EDITOR_CURRENTCELL
   B30: '#ddd7fa'  # EDITOR_OCCURRENCE
   B40: '#000000'  # EDITOR_CTRLCLICK

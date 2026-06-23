@@ -148,7 +148,7 @@ ConcurrentMidnightMirageSyntaxDark:
   B160: '#AAAAAA'  # EDITOR_INSTANCE (Parameters, Enum Variants, Property)
   B170: '#ed3eb0'  # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
 ConcurrentMidnightMirageSyntaxLight:
-  B10: '#F2E6F3'  # EDITOR_CURRENTLINE
+  B10: '#DFD4E1'  # EDITOR_CURRENTLINE
   B20: '#F7F4F9'  # EDITOR_CURRENTCELL
   B30: '#C2E3FA'  # EDITOR_OCCURRENCE
   B40: '#0000FF'  # EDITOR_CTRLCLICK

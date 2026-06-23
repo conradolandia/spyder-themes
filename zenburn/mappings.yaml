@@ -4,6 +4,8 @@ color_classes:
   Secondary: HastySodaPop
   Tertiary: HastyFrenchBlue
   Quaternary: InstantTwinkleNight
+  RunGreen: SomethingGreen
+  ProfilerPurple: DraculaPurple
   Success: InternalVictorianGarden
   Error: FreeWatermelonGelato
   Warning: BindingLunaticLynx
@@ -37,7 +39,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
-    COLOR_EMPTY: Secondary.B50
+    COLOR_EMPTY: Secondary.B70
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B90
@@ -54,11 +56,11 @@ semantic_mappings:
     # Icon colors
     ICON_1: Primary.B130
     ICON_2: Tertiary.B90
-    ICON_3: Success.B90
+    ICON_3: RunGreen.B90
     ICON_4: Error.B80
     ICON_5: Warning.B90
     ICON_6: Primary.B30
-    ICON_7: Quaternary.B100
+    ICON_7: ProfilerPurple.B90
 
     # Colors for variable explorer, and mixed uses of the color system
     GROUP_1: GroupDark.B10
@@ -122,7 +124,7 @@ semantic_mappings:
     COLOR_HEART: Secondary.B80
 
     # For editor tooltips
-    TIP_TITLE_COLOR: Success.B80
+    TIP_TITLE_COLOR: Success.B100
     TIP_CHAR_HIGHLIGHT_COLOR: Syntax.B170
 
     # Tooltip opacity (numeric value, not a color reference)
@@ -236,7 +238,7 @@ semantic_mappings:
     COLOR_HEART: Error.B70
 
     # For editor tooltips
-    TIP_TITLE_COLOR: Success.B30
+    TIP_TITLE_COLOR: Success.B80
     TIP_CHAR_HIGHLIGHT_COLOR: SyntaxLight.B170
 
     # Tooltip opacity (numeric value, not a color reference)

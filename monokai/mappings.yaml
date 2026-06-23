@@ -5,6 +5,7 @@ color_classes:
   Tertiary: RapidSparkyBlue
   Quaternary: LazyDreamyCandyForest
   Success: SpeedyPoisonousPotion
+  RunGreen: MinimumVerminal
   Error: DaringRedЯum
   Warning: ExternalDragonBall
   GroupDark: LazyCyberpinkDark
@@ -147,8 +148,8 @@ semantic_mappings:
     COLOR_TEXT_4: Primary.B50
 
     # Accent colors
-    COLOR_ACCENT_1: Secondary.B120
-    COLOR_ACCENT_2: Secondary.B110
+    COLOR_ACCENT_1: Secondary.B140
+    COLOR_ACCENT_2: Secondary.B130
     COLOR_ACCENT_3: Secondary.B100
     COLOR_ACCENT_4: Secondary.B70
     COLOR_ACCENT_5: Secondary.B60
@@ -177,7 +178,7 @@ semantic_mappings:
     # Icon colors
     ICON_1: Primary.B20
     ICON_2: Tertiary.B80
-    ICON_3: Success.B70
+    ICON_3: RunGreen.B50
     ICON_4: Error.B80
     ICON_5: Warning.B90
     ICON_6: Primary.B120
@@ -245,7 +246,7 @@ semantic_mappings:
     COLOR_HEART: Error.B70
 
     # For editor tooltips
-    TIP_TITLE_COLOR: Success.B30
+    TIP_TITLE_COLOR: Success.B80
     TIP_CHAR_HIGHLIGHT_COLOR: SyntaxLight.B170
 
     # Tooltip opacity (numeric value, not a color reference)

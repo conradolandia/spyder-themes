@@ -29,7 +29,7 @@ semantic_mappings:
 
     # Accent colors
     COLOR_ACCENT_1: Secondary.B20
-    COLOR_ACCENT_2: Secondary.B40
+    COLOR_ACCENT_2: Secondary.B30
     COLOR_ACCENT_3: Secondary.B50
     COLOR_ACCENT_4: Secondary.B70
     COLOR_ACCENT_5: Secondary.B80

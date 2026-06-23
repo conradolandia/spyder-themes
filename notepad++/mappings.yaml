@@ -37,7 +37,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
-    COLOR_EMPTY: Secondary.B50
+    COLOR_EMPTY: Secondary.B70
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B120
@@ -246,7 +246,7 @@ semantic_mappings:
     COLOR_HEART: Error.B50
 
     # For editor tooltips
-    TIP_TITLE_COLOR: Success.B30
+    TIP_TITLE_COLOR: Success.B70
     TIP_CHAR_HIGHLIGHT_COLOR: SyntaxLight.B170
 
     # Tooltip opacity (numeric value, not a color reference)

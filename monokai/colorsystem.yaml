@@ -41,8 +41,8 @@ RapidSparkyBlue:
   B40: '#224146'
   B50: '#285157'
   B60: '#2E6269'
-  B70: '#33737C'
-  B80: '#39858F'
+  B70: '#1D7580'
+  B80: '#1B8997'
   B90: '#3E97A3'
   B100: '#43A9B7'
   B110: '#48BCCB'
@@ -101,6 +101,10 @@ SpeedyPoisonousPotion:
   B130: '#C8EC7D'
   B140: '#E5F5BE'
   B150: '#FFFFFF'
+MinimumVerminal:
+  B40: '#286609'
+  B50: '#368B0C'
+  B60: '#43AC0F'
 ExternalDragonBall:
   B0: '#000000'
   B10: '#1C1208'
@@ -146,8 +150,8 @@ LazyCyberpinkLight:
   B120: '#827EA5'
 AgileLeadSyntaxDark:
   B10: '#2F2F2F'  # EDITOR_CURRENTLINE
-  B20: '#363636'  # EDITOR_CURRENTCELL
-  B30: '#1A72BB'  # EDITOR_OCCURRENCE
+  B20: '#222222'  # EDITOR_CURRENTCELL
+  B30: '#1F4777'  # EDITOR_OCCURRENCE
   B40: '#FFFFFF'  # EDITOR_CTRLCLICK
   B50: '#2F2F2F'  # EDITOR_SIDEAREAS
   B60: '#3B7A00'  # EDITOR_MATCHED_P
@@ -164,7 +168,7 @@ AgileLeadSyntaxDark:
   B170: '#D26366'  # EDITOR_SYMBOL (operators, brackets, parentheses and other symbols)
 AgileLeadSyntaxLight:
   B10: '#E0E0E0'  # EDITOR_CURRENTLINE
-  B20: '#EDEDED'  # EDITOR_CURRENTCELL
+  B20: '#F3F3F3'  # EDITOR_CURRENTCELL
   B30: '#C2E8FF'  # EDITOR_OCCURRENCE
   B40: '#000000'  # EDITOR_CTRLCLICK
   B50: '#EDEDED'  # EDITOR_SIDEAREAS

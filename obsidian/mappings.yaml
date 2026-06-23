@@ -4,6 +4,7 @@ color_classes:
   Secondary: LatentFrenchBlue
   Tertiary: SomePurpleRain
   Success: WisePistachio
+  RunGreen: MinimumVerminal
   Error: ThreadedIndianRed
   Warning: PokyMartianColony
   GroupDark: SwiftHeavenlySkyDark
@@ -36,7 +37,7 @@ semantic_mappings:
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
-    COLOR_EMPTY: Secondary.B40
+    COLOR_EMPTY: Secondary.B60
 
     # Colors for information and feedback in dialogs
     COLOR_SUCCESS_1: Success.B120
@@ -101,14 +102,14 @@ semantic_mappings:
     EDITOR_MATCHED_P: Syntax.B60
     EDITOR_UNMATCHED_P: Syntax.B70
     EDITOR_NORMAL: [Syntax.B80, false, false]
-    EDITOR_KEYWORD: [Syntax.B90, false, false]
+    EDITOR_KEYWORD: [Syntax.B90, true, false]
     EDITOR_MAGIC: [Syntax.B100, false, false]
     EDITOR_BUILTIN: [Syntax.B110, false, false]
     EDITOR_DEFINITION: [Syntax.B120, false, false]
     EDITOR_COMMENT: [Syntax.B130, false, false]
     EDITOR_STRING: [Syntax.B140, false, false]
     EDITOR_NUMBER: [Syntax.B150, false, false]
-    EDITOR_INSTANCE: [Syntax.B160, false, false]
+    EDITOR_INSTANCE: [Syntax.B160, false, true]
     EDITOR_SYMBOL: [Syntax.B170, false, false]
 
     # Colors for Spyder and Python logos
@@ -126,7 +127,7 @@ semantic_mappings:
     COLOR_HEART: Error.B60
 
     # For editor tooltips
-    TIP_TITLE_COLOR: Success.B80
+    TIP_TITLE_COLOR: Success.B90
     TIP_CHAR_HIGHLIGHT_COLOR: Syntax.B170
 
     # Tooltip opacity (numeric value, not a color reference)
@@ -177,7 +178,7 @@ semantic_mappings:
     # Icon colors
     ICON_1: Primary.B10
     ICON_2: Secondary.B60
-    ICON_3: Success.B70
+    ICON_3: RunGreen.B50 
     ICON_4: Error.B50
     ICON_5: Warning.B80
     ICON_6: Primary.B120
@@ -220,14 +221,14 @@ semantic_mappings:
     EDITOR_MATCHED_P: SyntaxLight.B60
     EDITOR_UNMATCHED_P: SyntaxLight.B70
     EDITOR_NORMAL: [SyntaxLight.B80, false, false]
-    EDITOR_KEYWORD: [SyntaxLight.B90, false, false]
+    EDITOR_KEYWORD: [SyntaxLight.B90, true, false]
     EDITOR_MAGIC: [SyntaxLight.B100, false, false]
     EDITOR_BUILTIN: [SyntaxLight.B110, false, false]
     EDITOR_DEFINITION: [SyntaxLight.B120, false, false]
     EDITOR_COMMENT: [SyntaxLight.B130, false, false]
     EDITOR_STRING: [SyntaxLight.B140, false, false]
     EDITOR_NUMBER: [SyntaxLight.B150, false, false]
-    EDITOR_INSTANCE: [SyntaxLight.B160, false, false]
+    EDITOR_INSTANCE: [SyntaxLight.B160, false, true]
     EDITOR_SYMBOL: [SyntaxLight.B170, false, false]
 
     # Colors for Spyder and Python logos
@@ -245,7 +246,7 @@ semantic_mappings:
     COLOR_HEART: Error.B40
 
     # For editor tooltips
-    TIP_TITLE_COLOR: Success.B30
+    TIP_TITLE_COLOR: Success.B60
     TIP_CHAR_HIGHLIGHT_COLOR: SyntaxLight.B170
 
     # Tooltip opacity (numeric value, not a color reference)
