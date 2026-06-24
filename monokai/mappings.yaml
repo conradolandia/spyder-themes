@@ -246,7 +246,7 @@ semantic_mappings:
     COLOR_HEART: Error.B70
 
     # For editor tooltips
-    TIP_TITLE_COLOR: Success.B80
+    TIP_TITLE_COLOR: RunGreen.B40
     TIP_CHAR_HIGHLIGHT_COLOR: SyntaxLight.B170
 
     # Tooltip opacity (numeric value, not a color reference)

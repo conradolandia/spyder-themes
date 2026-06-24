@@ -103,7 +103,7 @@ semantic_mappings:
     EDITOR_MATCHED_P: Syntax.B60
     EDITOR_UNMATCHED_P: Syntax.B70
     EDITOR_NORMAL: [Syntax.B80, false, false]
-    EDITOR_KEYWORD: [Syntax.B90, true, false]
+    EDITOR_KEYWORD: [Syntax.B90, false, false]
     EDITOR_MAGIC: [Syntax.B100, false, false]
     EDITOR_BUILTIN: [Syntax.B110, false, false]
     EDITOR_DEFINITION: [Syntax.B120, true, false]
@@ -222,7 +222,7 @@ semantic_mappings:
     EDITOR_MATCHED_P: SyntaxLight.B60
     EDITOR_UNMATCHED_P: SyntaxLight.B70
     EDITOR_NORMAL: [SyntaxLight.B80, false, false]
-    EDITOR_KEYWORD: [SyntaxLight.B90, true, false]
+    EDITOR_KEYWORD: [SyntaxLight.B90, false, false]
     EDITOR_MAGIC: [SyntaxLight.B100, false, false]
     EDITOR_BUILTIN: [SyntaxLight.B110, false, false]
     EDITOR_DEFINITION: [SyntaxLight.B120, true, false]
