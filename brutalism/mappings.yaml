@@ -29,11 +29,11 @@ semantic_mappings:
     COLOR_TEXT_4: Primary.B110
 
     # Accent colors
-    COLOR_ACCENT_1: Secondary.B20
-    COLOR_ACCENT_2: Secondary.B30
-    COLOR_ACCENT_3: Secondary.B50
-    COLOR_ACCENT_4: Secondary.B70
-    COLOR_ACCENT_5: Secondary.B80
+    COLOR_ACCENT_1: Secondary.B50
+    COLOR_ACCENT_2: Secondary.B60
+    COLOR_ACCENT_3: Secondary.B70
+    COLOR_ACCENT_4: Secondary.B80
+    COLOR_ACCENT_5: Secondary.B100
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
@@ -148,11 +148,11 @@ semantic_mappings:
     COLOR_TEXT_4: Primary.B50
 
     # Accent colors
-    COLOR_ACCENT_1: Secondary.B130
-    COLOR_ACCENT_2: Secondary.B100
-    COLOR_ACCENT_3: Secondary.B90
-    COLOR_ACCENT_4: Secondary.B80
-    COLOR_ACCENT_5: Secondary.B70
+    COLOR_ACCENT_1: Secondary.B100
+    COLOR_ACCENT_2: Secondary.B90
+    COLOR_ACCENT_3: Secondary.B80
+    COLOR_ACCENT_4: Secondary.B70
+    COLOR_ACCENT_5: Secondary.B60
 
     # Disabled elements
     COLOR_DISABLED: Primary.B80
