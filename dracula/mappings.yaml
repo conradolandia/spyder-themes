@@ -29,11 +29,11 @@ semantic_mappings:
     COLOR_TEXT_4: Primary.B120
 
     # Accent colors
-    COLOR_ACCENT_1: Secondary.B30
-    COLOR_ACCENT_2: Secondary.B50
-    COLOR_ACCENT_3: Secondary.B70
-    COLOR_ACCENT_4: Secondary.B90
-    COLOR_ACCENT_5: Secondary.B110
+    COLOR_ACCENT_1: Secondary.B20
+    COLOR_ACCENT_2: Secondary.B30
+    COLOR_ACCENT_3: Secondary.B50
+    COLOR_ACCENT_4: Secondary.B70
+    COLOR_ACCENT_5: Secondary.B80
 
     # Disabled elements
     COLOR_DISABLED: Primary.B70
@@ -107,7 +107,7 @@ semantic_mappings:
     EDITOR_BUILTIN: [Syntax.B110, false, false]
     EDITOR_DEFINITION: [Syntax.B120, true, false]
     EDITOR_COMMENT: [Syntax.B130, false, true]
-    EDITOR_STRING: [Syntax.B140, false, false]
+    EDITOR_STRING: [Syntax.B140, false, true]
     EDITOR_NUMBER: [Syntax.B150, false, false]
     EDITOR_INSTANCE: [Syntax.B160, false, true]
     EDITOR_SYMBOL: [Syntax.B170, false, false]
@@ -148,11 +148,11 @@ semantic_mappings:
     COLOR_TEXT_4: Primary.B40
 
     # Accent colors
-    COLOR_ACCENT_1: Secondary.B100
-    COLOR_ACCENT_2: Secondary.B90
-    COLOR_ACCENT_3: Secondary.B80
-    COLOR_ACCENT_4: Secondary.B70
-    COLOR_ACCENT_5: Secondary.B60
+    COLOR_ACCENT_1: Secondary.B130
+    COLOR_ACCENT_2: Secondary.B100
+    COLOR_ACCENT_3: Secondary.B90
+    COLOR_ACCENT_4: Secondary.B80
+    COLOR_ACCENT_5: Secondary.B70
 
     # Disabled elements
     COLOR_DISABLED: Primary.B100
@@ -226,10 +226,11 @@ semantic_mappings:
     EDITOR_BUILTIN: [SyntaxLight.B110, false, false]
     EDITOR_DEFINITION: [SyntaxLight.B120, true, false]
     EDITOR_COMMENT: [SyntaxLight.B130, false, true]
-    EDITOR_STRING: [SyntaxLight.B140, false, false]
+    EDITOR_STRING: [SyntaxLight.B140, false, true]
     EDITOR_NUMBER: [SyntaxLight.B150, false, false]
     EDITOR_INSTANCE: [SyntaxLight.B160, false, true]
     EDITOR_SYMBOL: [SyntaxLight.B170, false, false]
+
     # Colors for Spyder and Python logos
     PYTHON_LOGO_UP: Logos.B10
     PYTHON_LOGO_DOWN: Logos.B20
