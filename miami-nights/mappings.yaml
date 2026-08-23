@@ -251,3 +251,10 @@ semantic_mappings:
 
     # Tooltip opacity (numeric value, not a color reference)
     OPACITY_TOOLTIP: 230
+
+css_overrides:
+  --note-bg: COLOR_ACCENT_1
+  --border-light: COLOR_ACCENT_2
+  --link-color: 
+    dark: Tertiary.B70
+    light: Tertiary.B50
