@@ -255,3 +255,8 @@ semantic_mappings:
 css_overrides:
   --note-bg: COLOR_HIGHLIGHT_1
   --border-light: COLOR_ACCENT_2
+
+appeal_overrides:
+  --highlight: 
+    dark: COLOR_ACCENT_3
+    light: Error.B40

@@ -258,3 +258,8 @@ css_overrides:
   --link-color: 
     dark: Tertiary.B70
     light: Tertiary.B50
+
+appeal_overrides:
+  --highlight:
+    dark: COLOR_ACCENT_2
+    light: Error.B50
