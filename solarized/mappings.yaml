@@ -264,3 +264,14 @@ css_overrides:
   --link-color: 
     dark: COLOR_ACCENT_4
     light: Secondary.B30
+  --hover-color: 
+    dark: COLOR_ACCENT_3
+    light: Secondary.B40
+
+appeal_overrides:
+  --link-color: 
+    dark: COLOR_ACCENT_4
+    light: Secondary.B30
+  --hover-color: 
+    dark: COLOR_ACCENT_3
+    light: Secondary.B40

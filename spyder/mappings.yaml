@@ -250,3 +250,19 @@ semantic_mappings:
 
     # Tooltip opacity (numeric value, not a color reference)
     OPACITY_TOOLTIP: 230
+
+css_overrides:
+  --link-color: 
+    dark: COLOR_ACCENT_4
+    light: COLOR_ACCENT_5
+  --hover-color: 
+    dark: COLOR_ACCENT_5
+    light: COLOR_ACCENT_4
+
+appeal_overrides:
+  --link-color: 
+    dark: COLOR_ACCENT_4
+    light: COLOR_ACCENT_5
+  --hover-color: 
+    dark: COLOR_ACCENT_5
+    light: COLOR_ACCENT_4

@@ -256,3 +256,6 @@ css_overrides:
   --note-bg: COLOR_HIGHLIGHT_1
   --border-light: COLOR_ACCENT_2
   --hover-color: COLOR_ACCENT_4
+
+appeal_overrides:
+  --hover-color: COLOR_ACCENT_4

@@ -263,3 +263,11 @@ css_overrides:
   --link-color: 
     dark: COLOR_SUCCESS_3
     light: COLOR_ERROR_3
+
+appeal_overrides:
+  --link-color: 
+    dark: COLOR_SUCCESS_3
+    light: COLOR_ERROR_3
+  --hover-color: 
+    dark: COLOR_SUCCESS_3
+    light: COLOR_ERROR_3

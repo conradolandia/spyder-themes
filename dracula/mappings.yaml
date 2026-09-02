@@ -262,3 +262,8 @@ css_overrides:
   --link-color: 
     dark: COLOR_ACCENT_3
     light: COLOR_ACCENT_4
+
+appeal_overrides:
+  --link-color: 
+    dark: COLOR_ACCENT_3
+    light: COLOR_ACCENT_4

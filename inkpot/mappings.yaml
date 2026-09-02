@@ -261,3 +261,11 @@ css_overrides:
   --link-color:
     dark: Tertiary.B90
     light: Tertiary.B70
+
+appeal_overrides:
+  --link-color: 
+    dark: Tertiary.B90
+    light: Tertiary.B70
+  --hover-color: 
+    dark: Tertiary.B90
+    light: Tertiary.B70
