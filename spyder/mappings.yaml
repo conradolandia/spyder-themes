@@ -266,3 +266,11 @@ appeal_overrides:
   --hover-color: 
     dark: COLOR_ACCENT_5
     light: COLOR_ACCENT_4
+
+pydoc_overrides:
+  --link-color: 
+    dark: COLOR_ACCENT_4
+    light: COLOR_ACCENT_5
+  --hover-color: 
+    dark: COLOR_ACCENT_5
+    light: COLOR_ACCENT_4

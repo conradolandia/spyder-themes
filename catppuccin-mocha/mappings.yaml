@@ -269,3 +269,9 @@ appeal_overrides:
     dark: Quaternary.B90
     light: Quaternary.B50
   --hover-color: Quaternary.B70
+
+pydoc_overrides:
+  --link-color: 
+    dark: Quaternary.B90
+    light: Quaternary.B50
+  --hover-color: Quaternary.B70

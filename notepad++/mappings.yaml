@@ -259,3 +259,6 @@ css_overrides:
 
 appeal_overrides:
   --hover-color: COLOR_ACCENT_4
+
+pydoc_overrides:
+  --hover-color: COLOR_ACCENT_4

@@ -269,3 +269,8 @@ appeal_overrides:
   --link-color: 
     dark: Tertiary.B80
     light: Tertiary.B70
+
+pydoc_overrides:
+  --link-color: 
+    dark: Tertiary.B80
+    light: Tertiary.B70
